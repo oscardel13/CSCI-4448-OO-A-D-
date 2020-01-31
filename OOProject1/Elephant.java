@@ -1,5 +1,6 @@
 public class Elephant extends Pachyderm{
   	String name;
+    //The name parameter is set as the animals name
     public Elephant(String givenName){
         this.name=givenName;
     }
