@@ -1,5 +1,6 @@
 public class Feline extends Animal{
-		public String roam(){
+  //Felines roam differently than the others
+  public String roam(){
     	return ("are traveling solo");
   }
 }
