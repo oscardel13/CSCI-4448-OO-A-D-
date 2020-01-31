@@ -1,5 +1,6 @@
 public class Wolf extends Canine{
     String name;
+    //The name parameter is set as the animals name
     public Wolf(String givenName){
         this.name=givenName;
     }
