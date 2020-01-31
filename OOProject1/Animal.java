@@ -3,7 +3,10 @@ public class Animal {
   public String name;
   public String type;
   
+  
   List<Animal> animals = new ArrayList<Animal>();
+  
+  //We set all of the methods in here in case they were not called again for the animals subclasses
     public String sleep(){
         return ("went to sleep");
     }
