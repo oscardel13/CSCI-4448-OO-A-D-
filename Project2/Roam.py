@@ -3,7 +3,6 @@ class Roam(object):
         return (self.Roam)
 
 class Solo(Roam):
-
     def roamType(self):
         return ("roams alone")
 

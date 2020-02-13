@@ -45,3 +45,6 @@ class Zookeeper(object):
         for i in self.zoo:
             print(i.Name + " the " + i.Type + " " + i.sleep())
         print("")
+
+    def __del__(self):
+        self.observers.clear()
