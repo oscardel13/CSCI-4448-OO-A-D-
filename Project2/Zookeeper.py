@@ -9,8 +9,10 @@ class Zookeeper(object):
     def register_observer(self, observer):
         self.observers.append(observer)
 
-    def remove_observer(self, observer):
-        self.observers.remove(observer)
+    def clear_observer(self):
+        for observers in self.observers:
+            del observers
+        self.observers.clear()
 
     def notify_observers(self,action):
         for observers in self.observers:
@@ -45,6 +47,3 @@ class Zookeeper(object):
         for i in self.zoo:
             print(i.Name + " the " + i.Type + " " + i.sleep())
         print("")
-
-    def __del__(self):
-        self.observers.clear()

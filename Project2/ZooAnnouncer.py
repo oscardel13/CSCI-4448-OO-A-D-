@@ -12,7 +12,8 @@ class ZooAnnouncer(object):
         self.display(action)
 
     def display(self,action):
-        print("Hi, this is " + self.Name + " the Zoo Announcer . The Zookeeper is about to  " + action)
+        print("Hi, this is " + self.Name + " the Zoo Announcer. The Zookeeper is about to " + action)
 
     def __del__(self):
+        print(self.Name  + " the observer is deconstructing")
 

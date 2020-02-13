@@ -30,10 +30,7 @@ def main():
     lol.excercise()
     lol.shutDown()
 
-    #lol.remove_observer("Colin")
-    #lol.remove_observer("Oscar")
-
-    del lol
+    lol.clear_observer()
 
 if __name__ == "__main__":
     main()
