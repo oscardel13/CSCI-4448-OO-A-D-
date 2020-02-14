@@ -2,6 +2,7 @@ import Animal
 import Zookeeper
 import ZooAnnouncer
 
+
 def main():
     zoo = Animal.Animal()
     zoo.addAnimal(Animal.Cat("Colin"))
@@ -17,9 +18,9 @@ def main():
     zoo.addAnimal(Animal.Hippo("Hilda"))
     zoo.addAnimal(Animal.Hippo("Hippona"))
     zoo.addAnimal(Animal.Rhino("Rexy"))
-    zoo.addAnimal(Animal.Rhino ("Rastaman"))
-    zoo.addAnimal(Animal.Elephant ("Egg"))
-    zoo.addAnimal(Animal.Elephant ("Ebon"))
+    zoo.addAnimal(Animal.Rhino("Rastaman"))
+    zoo.addAnimal(Animal.Elephant("Egg"))
+    zoo.addAnimal(Animal.Elephant("Ebon"))
     lol = Zookeeper.Zookeeper(zoo.zoo)
     ZooAnnouncer.ZooAnnouncer(lol, "Colin")
     ZooAnnouncer.ZooAnnouncer(lol, "Oscar")
@@ -31,6 +32,7 @@ def main():
     lol.shutDown()
 
     lol.clear_observer()
+
 
 if __name__ == "__main__":
     main()
