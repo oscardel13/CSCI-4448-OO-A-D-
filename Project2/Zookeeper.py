@@ -11,69 +11,60 @@ class Zookeeper(object):
         self.observers.append(observer)
 
     # Stopping observers from observing
-    def clear_observer(self):
+    def clear_observer(self,f):
+        name = ""
         for observers in self.observers:
+            name = observers.Name
+            f.write(name + " the observer were deconstructing\n")
             del observers
         self.observers.clear()
-        return "The observers Deconstructed"
 
     # Creating observable event for observers
-    def notify_observers(self,action):
-        #out is made to save announcer message and return it for another out
-        out = ""
+    def notify_observers(self,action,f):
         for observers in self.observers:
-            out += observers.update(action)
-        return out
+            observers.update(action,f)
+
 
     # Zookeeper calling the animals to perform certain actions, using animal list
-    def wakeUp(self):
+    def wakeUp(self,f):
         # Notifying the observers and announcing action
-        out = self.notify_observers('wake up the animals')
-        out += ("Im the Zookeeper and I'm waking the animals")
+        self.notify_observers('wake up the animals',f)
+        f.write("Im the Zookeeper and I'm waking the animals")
         for i in self.zoo:
-            out += ("\n" + i.Name + " the " + i.Type + " " + i.wake())
-        out += ("\n\n")
-        #returns all actions displays in one string for easier printing in file
-        return out
+            f.write("\n" + i.Name + " the " + i.Type + " " + i.wake())
+        f.write("\n\n")
 
-    def rollCall(self):
-        # Notifying the observers and announcing action
-        out = self.notify_observers('roll call the animals')
-        out += ("Im the Zookeeper and I'm roll calling the animals")
-        for i in self.zoo:
-            out += ("\n" + i.Name + " the " + i.Type + " " + i.makeNoise())
-        out += ("\n\n")
-        #returns all actions displays in one string for easier printing in file
-        return out
 
-    def feed(self):
+    def rollCall(self,f):
         # Notifying the observers and announcing action
-        out = self.notify_observers('feed the animals')
-        out += ("Im the Zookeeper and I'm feeding the animals")
+        self.notify_observers('roll call the animals',f)
+        f.write("Im the Zookeeper and I'm roll calling the animals")
         for i in self.zoo:
-            out += ("\n" + i.Name + " the " + i.Type + " " + i.eat())
-        out += ("\n\n")
-        #returns all actions displays in one string for easier printing in file
-        return out
+            f.write("\n" + i.Name + " the " + i.Type + " " + i.makeNoise())
+        f.write("\n\n")
 
-    def excercise(self):
+    def feed(self,f):
         # Notifying the observers and announcing action
-        out = self.notify_observers('work out the animals')
-        out += ("Im the Zookeeper and I'm exercising the animals")
+        self.notify_observers('feed the animals',f)
+        ("Im the Zookeeper and I'm feeding the animals")
         for i in self.zoo:
-            out += ("\n" + i.Name + " the " + i.Type + " " + i.performRoam())
-        out += ("\n\n")
-        #returns all actions displays in one string for easier printing in file
-        return out
+            f.write("\n" + i.Name + " the " + i.Type + " " + i.eat())
+        f.write("\n\n")
 
-    def shutDown(self):
+    def excercise(self,f):
         # Notifying the observers and announcing action
-        out = self.notify_observers('close the zoo')
-        out += ("Im the Zookeeper and I'm shutting this place down")
+        out = self.notify_observers('work out the animals',f)
+        f.write("Im the Zookeeper and I'm exercising the animals")
         for i in self.zoo:
-            out += ("\n" + i.Name + " the " + i.Type + " " + i.sleep())
-        out += ("\n")
-        out += ("\n" + self.clear_observer())
-        #returns all actions displays in one string for easier printing in file
-        return out
+            f.write("\n" + i.Name + " the " + i.Type + " " + i.performRoam())
+        f.write("\n\n")
+
+    def shutDown(self,f):
+        # Notifying the observers and announcing action
+        self.notify_observers('close the zoo',f)
+        f.write("Im the Zookeeper and I'm shutting this place down")
+        for i in self.zoo:
+            f.write("\n" + i.Name + " the " + i.Type + " " + i.sleep())
+        f.write("\n\n")
+        self.clear_observer(f)
         # Deconstruct the observers after the Zookeeper is done

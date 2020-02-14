@@ -38,12 +38,12 @@ def main():
     f.write("Oscar and Colin Zoo simulator \nUpdate: " + str(datetime.now().strftime("%m/%d/%Y %H:%M:%S")) + "\n\n")
 
     # Zookeeper performing his duties and prints to file
-    f.write(lol.wakeUp())
-    f.write(lol.rollCall())
-    f.write(lol.feed())
-    f.write(lol.excercise())
+    lol.wakeUp(f)
+    lol.rollCall(f)
+    lol.feed(f)
+    lol.excercise(f)
     # shutDown also clears the observers and prints to file
-    f.write(lol.shutDown())
+    lol.shutDown(f)
     #closes file
     f.close()
 
