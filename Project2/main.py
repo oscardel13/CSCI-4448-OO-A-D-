@@ -1,7 +1,7 @@
 import Animal
 import Zookeeper
 import ZooAnnouncer
-
+from datetime import datetime
 
 def main():
     # Create an animal object zoo to act as a list to group the animals
@@ -32,13 +32,20 @@ def main():
     zoo.addAnimal(Animal.Elephant("Egg"))
     zoo.addAnimal(Animal.Elephant("Ebon"))
 
-    # Zookeeper performing his duties
-    lol.wakeUp()
-    lol.rollCall()
-    lol.feed()
-    lol.excercise()
-    # shutDown also clears the observers
-    lol.shutDown()
+    #opens file
+    f = open("Project2/outFile.txt","w")
+    #prints heading of file
+    f.write("Oscar and Colin Zoo simulator \nUpdate: " + str(datetime.now().strftime("%m/%d/%Y %H:%M:%S")) + "\n\n")
+
+    # Zookeeper performing his duties and prints to file
+    f.write(lol.wakeUp())
+    f.write(lol.rollCall())
+    f.write(lol.feed())
+    f.write(lol.excercise())
+    # shutDown also clears the observers and prints to file
+    f.write(lol.shutDown())
+    #closes file
+    f.close()
 
 
 if __name__ == "__main__":

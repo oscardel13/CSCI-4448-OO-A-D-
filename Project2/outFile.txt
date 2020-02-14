@@ -1,0 +1,104 @@
+Oscar and Colin Zoo simulator 
+Update: 02/14/2020 02:55:07
+
+Hi, this is Colin the Zoo Announcer. The Zookeeper is about to wake up the animals
+Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to wake up the animals
+Im the Zookeeper and I'm waking the animals
+Colin the Feline wakes up
+Cashmere the Feline goes to bed
+Donnie the Canine wakes up
+Dion the Canine wakes up
+Wumpy the Canine wakes up
+Wanda the Canine wakes up
+Tony the Feline wakes up
+Tinderthot the Feline wakes up
+Lary the Feline wakes up
+Loscar the Feline wakes up
+Hilda the Pachyderm wakes up
+Hippona the Pachyderm wakes up
+Rexy the Pachyderm wakes up
+Rastaman the Pachyderm wakes up
+Egg the Pachyderm wakes up
+Ebon the Pachyderm wakes up
+
+Hi, this is Colin the Zoo Announcer. The Zookeeper is about to roll call the animals
+Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to roll call the animals
+Im the Zookeeper and I'm roll calling the animals
+Colin the Feline eats
+Cashmere the Feline roams alone
+Donnie the Canine barks
+Dion the Canine barks
+Wumpy the Canine howls
+Wanda the Canine howls
+Tony the Feline roars like a tiger
+Tinderthot the Feline roars like a tiger
+Lary the Feline howls all mighty
+Loscar the Feline howls all mighty
+Hilda the Pachyderm moos like a hippo, i think
+Hippona the Pachyderm moos like a hippo, i think
+Rexy the Pachyderm trumpets
+Rastaman the Pachyderm trumpets
+Egg the Pachyderm start talking smack
+Ebon the Pachyderm start talking smack
+
+Hi, this is Colin the Zoo Announcer. The Zookeeper is about to feed the animals
+Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to feed the animals
+Im the Zookeeper and I'm feeding the animals
+Colin the Feline wakes up
+Cashmere the Feline makes a noise
+Donnie the Canine eats
+Dion the Canine eats
+Wumpy the Canine eats
+Wanda the Canine eats
+Tony the Feline eats
+Tinderthot the Feline eats
+Lary the Feline eats
+Loscar the Feline eats
+Hilda the Pachyderm eats
+Hippona the Pachyderm eats
+Rexy the Pachyderm eats
+Rastaman the Pachyderm eats
+Egg the Pachyderm eats
+Ebon the Pachyderm eats
+
+Hi, this is Colin the Zoo Announcer. The Zookeeper is about to work out the animals
+Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to work out the animals
+Im the Zookeeper and I'm exercising the animals
+Colin the Feline roams alone
+Cashmere the Feline eats
+Donnie the Canine roams in a pack
+Dion the Canine roams in a pack
+Wumpy the Canine roams in a pack
+Wanda the Canine roams in a pack
+Tony the Feline roams alone
+Tinderthot the Feline roams alone
+Lary the Feline roams alone
+Loscar the Feline roams alone
+Hilda the Pachyderm roams in a herd
+Hippona the Pachyderm roams in a herd
+Rexy the Pachyderm roams in a herd
+Rastaman the Pachyderm roams in a herd
+Egg the Pachyderm roams in a herd
+Ebon the Pachyderm roams in a herd
+
+Hi, this is Colin the Zoo Announcer. The Zookeeper is about to close the zoo
+Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to close the zoo
+Im the Zookeeper and I'm shutting this place down
+Colin the Feline makes a noise
+Cashmere the Feline goes to bed
+Donnie the Canine goes to bed
+Dion the Canine goes to bed
+Wumpy the Canine goes to bed
+Wanda the Canine goes to bed
+Tony the Feline goes to bed
+Tinderthot the Feline goes to bed
+Lary the Feline goes to bed
+Loscar the Feline goes to bed
+Hilda the Pachyderm goes to bed
+Hippona the Pachyderm goes to bed
+Rexy the Pachyderm goes to bed
+Rastaman the Pachyderm goes to bed
+Egg the Pachyderm goes to bed
+Ebon the Pachyderm goes to bed
+
+The observers Deconstructed

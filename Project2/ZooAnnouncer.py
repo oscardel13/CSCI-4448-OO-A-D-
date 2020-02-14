@@ -9,12 +9,14 @@ class ZooAnnouncer(object):
     # An update from the Zookeeper makes the observers display whats happening
     def update(self, action):
         self.action = action
-        self.display(action)
+        #returns display for out 
+        return self.display(action)
 
     # Displays what it sees Zookeeper doing
     def display(self, action):
-        print("Hi, this is " + self.Name + " the Zoo Announcer. The Zookeeper is about to " + action)
+        #returns string for out
+        return ("Hi, this is " + self.Name + " the Zoo Announcer. The Zookeeper is about to " + action + "\n")
 
     # Destructor for observers
     def __del__(self):
-        print(self.Name + " the observer is deconstructing")
+        return
