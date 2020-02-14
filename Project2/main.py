@@ -7,6 +7,13 @@ def main():
     # Create an animal object zoo to act as a list to group the animals
     zoo = Animal.Animal()
 
+    # Create the Zookeeper lol, passing in animals
+    lol = Zookeeper.Zookeeper(zoo.animalList)
+
+    # Two Zoo Announcers Colin and Oscar who are observers
+    ZooAnnouncer.ZooAnnouncer(lol, "Colin")
+    ZooAnnouncer.ZooAnnouncer(lol, "Oscar")
+
     # Create each animal passing in their name as a parameter
     zoo.addAnimal(Animal.Cat("Colin"))
     zoo.addAnimal(Animal.Cat("Cashmere"))
@@ -24,13 +31,6 @@ def main():
     zoo.addAnimal(Animal.Rhino("Rastaman"))
     zoo.addAnimal(Animal.Elephant("Egg"))
     zoo.addAnimal(Animal.Elephant("Ebon"))
-
-    # Create the Zookeeper lol, passing in animals
-    lol = Zookeeper.Zookeeper(zoo.animalList)
-
-    # Two Zoo Announcers Colin and Oscar who are observers
-    ZooAnnouncer.ZooAnnouncer(lol, "Colin")
-    ZooAnnouncer.ZooAnnouncer(lol, "Oscar")
 
     # Zookeeper performing his duties
     lol.wakeUp()
