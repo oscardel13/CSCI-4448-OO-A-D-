@@ -2,14 +2,18 @@ import Roam
 import random
 
 
+# Animal super class
 class Animal(object):
+
     def __init__(self):
         self.roamstyle = Roam.Roam()
-        self.zoo = []
+        self.animalList = []
 
+    # For creating a group of animals
     def addAnimal(self, animal):
-        self.zoo.append(animal)
+        self.animalList.append(animal)
 
+    # Functions all animals share
     def sleep(self):
         return "goes to bed"
 
@@ -19,9 +23,7 @@ class Animal(object):
     def wake(self):
         return "wakes up"
 
-    def makeNoise(self):
-        return "makes a noise"
-
+    # Here we are using the strategy design pattern on roam
     def performRoam(self):
         return self.roamstyle.roamType()
 
@@ -32,10 +34,12 @@ class Animal(object):
 # ---------------------------------------------------------------------
 class Canine(Animal):
     def __init__(self):
+        # Defining type and using strategy pattern to set roam behavior
         self.Type = "Canine"
         Animal.__init__(self)
         self.setRoamBehavior(Roam.Pack())
 
+# Each initializes name through constructor and has own noise
 
 class Wolf(Canine):
     def __init__(self, name):
@@ -58,10 +62,13 @@ class Dog(Canine):
 # ----------------------------------------------------------------------------
 class Feline(Animal):
     def __init__(self):
+        # Defining type and using strategy pattern to set roam behavior
         self.Type = "Feline"
         Animal.__init__(self)
         self.setRoamBehavior(Roam.Solo())
 
+
+# Each initializes name through constructor and has own noise
 
 class Lion(Feline):
     def __init__(self, name):
@@ -69,7 +76,7 @@ class Lion(Feline):
         self.Name = name
 
     def makeNoise(self):
-        return "hoaws all mighty"
+        return "howls all mighty"
 
 
 class Tiger(Feline):
@@ -82,7 +89,7 @@ class Tiger(Feline):
 
 
 class Cat(Feline):
-    # Set name as constructor
+    # Set name through constructor
     def __init__(self, name):
         Feline.__init__(self)
         self.Name = name
@@ -121,11 +128,13 @@ class Cat(Feline):
 # --------------------------------------------------------------------------
 class Pachyderm(Animal):
     def __init__(self):
+        # Defining type and using strategy pattern to set roam behavior
         self.Type = "Pachyderm"
         Animal.__init__(self)
         self.setRoamBehavior(Roam.Herd())
 
 
+# Each initializes name through constructor and has own noise
 class Rhino(Pachyderm):
     def __init__(self, name):
         Pachyderm.__init__(self)

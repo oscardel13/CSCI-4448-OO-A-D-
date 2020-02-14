@@ -4,7 +4,10 @@ import ZooAnnouncer
 
 
 def main():
+    # Create an animal object zoo to act as a list to group the animals
     zoo = Animal.Animal()
+
+    # Create each animal passing in their name as a parameter
     zoo.addAnimal(Animal.Cat("Colin"))
     zoo.addAnimal(Animal.Cat("Cashmere"))
     zoo.addAnimal(Animal.Dog("Donnie"))
@@ -21,17 +24,21 @@ def main():
     zoo.addAnimal(Animal.Rhino("Rastaman"))
     zoo.addAnimal(Animal.Elephant("Egg"))
     zoo.addAnimal(Animal.Elephant("Ebon"))
-    lol = Zookeeper.Zookeeper(zoo.zoo)
+
+    # Create the Zookeeper lol, passing in animals
+    lol = Zookeeper.Zookeeper(zoo.animalList)
+
+    # Two Zoo Announcers Colin and Oscar who are observers
     ZooAnnouncer.ZooAnnouncer(lol, "Colin")
     ZooAnnouncer.ZooAnnouncer(lol, "Oscar")
 
+    # Zookeeper performing his duties
     lol.wakeUp()
     lol.rollCall()
     lol.feed()
     lol.excercise()
+    # shutDown also clears the observers
     lol.shutDown()
-
-    lol.clear_observer()
 
 
 if __name__ == "__main__":
