@@ -1,4 +1,5 @@
 import Roam
+import random
 
 
 class Animal(object):
@@ -81,12 +82,40 @@ class Tiger(Feline):
 
 
 class Cat(Feline):
+    # Set name as constructor
     def __init__(self, name):
         Feline.__init__(self)
         self.Name = name
 
+    # The randomize function picks a random number and then returns an action string depending on number
+    def randomize(self):
+        selector = random.randint(0, 4)
+        if selector == 0:
+            return "eats"
+        elif selector == 1:
+            return "wakes up"
+        elif selector == 2:
+            return "makes a noise"
+        elif selector == 3:
+            return "goes to bed"
+        else:
+            return "roams alone"
+
+    # Every function in cat is overwritten to call randomize() instead
+    def sleep(self):
+        return self.randomize()
+
+    def eat(self):
+        return self.randomize()
+
+    def wake(self):
+        return self.randomize()
+
     def makeNoise(self):
-        return "meows"
+        return self.randomize()
+
+    def performRoam(self):
+        return self.randomize()
 
 
 # --------------------------------------------------------------------------
