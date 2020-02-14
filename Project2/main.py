@@ -33,7 +33,7 @@ def main():
     zoo.addAnimal(Animal.Elephant("Ebon"))
 
     #opens file
-    f = open("Project2/outFile.txt","w")
+    f = open("outFile.txt","w")
     #prints heading of file
     f.write("Oscar and Colin Zoo simulator \nUpdate: " + str(datetime.now().strftime("%m/%d/%Y %H:%M:%S")) + "\n\n")
 
