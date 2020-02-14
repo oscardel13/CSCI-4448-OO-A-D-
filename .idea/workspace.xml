@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0149781b-871e-4680-8245-cf577362715d" name="Default Changelist" comment="" />
+    <list default="true" id="0149781b-871e-4680-8245-cf577362715d" name="Default Changelist" comment="Wrote cat random">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +21,7 @@
   </component>
   <component name="ProjectId" id="1XjrZjdGLIuWeAyD34mg9fdqLSm" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project2/main.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,6 +35,29 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="OOP2Config" type="PythonConfigurationType" factoryName="Python">
+      <module name="CSCI-4448-OO-A-D-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\colin\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project2/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,6 +69,21 @@
       <option name="presentableId" value="Default" />
       <updated>1581570401459</updated>
     </task>
+    <task id="LOCAL-00001" summary="More tweaks">
+      <created>1581645829159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581645829159</updated>
+    </task>
+    <task id="LOCAL-00002" summary="More tweaks">
+      <created>1581647225705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581647225705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="More tweaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="More tweaks" />
   </component>
 </project>
