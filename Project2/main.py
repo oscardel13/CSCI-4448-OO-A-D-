@@ -21,8 +21,8 @@ def main():
     zoo.addAnimal(Animal.Elephant ("Egg"))
     zoo.addAnimal(Animal.Elephant ("Ebon"))
     lol = Zookeeper.Zookeeper(zoo.zoo)
-    pop1 = ZooAnnouncer.ZooAnnouncer(lol, "Colin")
-    pop2 = ZooAnnouncer.ZooAnnouncer(lol, "Oscar")
+    ZooAnnouncer.ZooAnnouncer(lol, "Colin")
+    ZooAnnouncer.ZooAnnouncer(lol, "Oscar")
 
     lol.wakeUp()
     lol.rollCall()
