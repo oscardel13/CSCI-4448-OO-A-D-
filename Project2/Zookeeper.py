@@ -1,6 +1,3 @@
-import Animal
-import ZooAnnouncer
-
 class Zookeeper(object):
     def __init__(self, zoo):
         self.observers = []
