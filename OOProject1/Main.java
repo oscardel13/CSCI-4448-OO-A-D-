@@ -29,10 +29,10 @@ public class Main {
   //System.out.println(yo[0].name);
 	  
   //Then we call on the Zookeeper to do all his things
-  Zookeeper.wakeUp(zoo);
-  Zookeeper.rollCall(zoo);
-  Zookeeper.feed(zoo);
-  Zookeeper.excercise(zoo);
-  Zookeeper.shutDown(zoo);
+  bob.wakeUp(zoo);
+  bob.rollCall(zoo);
+  bob.feed(zoo);
+  bob.excercise(zoo);
+  bob.shutDown(zoo);
 }
 }

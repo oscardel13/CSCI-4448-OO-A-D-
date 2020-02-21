@@ -1,10 +1,10 @@
 Oscar and Colin Zoo simulator 
-Update: 02/14/2020 03:57:53
+Update: 02/21/2020 15:32:53
 
 Hi, this is Colin the Zoo Announcer. The Zookeeper is about to wake up the animals
 Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to wake up the animals
 Im the Zookeeper and I'm waking the animals
-Colin the Feline makes a noise
+Colin the Feline roams alone
 Cashmere the Feline wakes up
 Donnie the Canine wakes up
 Dion the Canine wakes up
@@ -24,8 +24,8 @@ Ebon the Pachyderm wakes up
 Hi, this is Colin the Zoo Announcer. The Zookeeper is about to roll call the animals
 Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to roll call the animals
 Im the Zookeeper and I'm roll calling the animals
-Colin the Feline roams alone
-Cashmere the Feline goes to bed
+Colin the Feline makes a noise
+Cashmere the Feline makes a noise
 Donnie the Canine barks
 Dion the Canine barks
 Wumpy the Canine howls
@@ -44,8 +44,8 @@ Ebon the Pachyderm start talking smack
 Hi, this is Colin the Zoo Announcer. The Zookeeper is about to feed the animals
 Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to feed the animals
 
-Colin the Feline roams alone
-Cashmere the Feline makes a noise
+Colin the Feline eats
+Cashmere the Feline eats
 Donnie the Canine eats
 Dion the Canine eats
 Wumpy the Canine eats
@@ -64,7 +64,7 @@ Ebon the Pachyderm eats
 Hi, this is Colin the Zoo Announcer. The Zookeeper is about to work out the animals
 Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to work out the animals
 Im the Zookeeper and I'm exercising the animals
-Colin the Feline eats
+Colin the Feline roams alone
 Cashmere the Feline wakes up
 Donnie the Canine roams in a pack
 Dion the Canine roams in a pack
@@ -84,8 +84,8 @@ Ebon the Pachyderm roams in a herd
 Hi, this is Colin the Zoo Announcer. The Zookeeper is about to close the zoo
 Hi, this is Oscar the Zoo Announcer. The Zookeeper is about to close the zoo
 Im the Zookeeper and I'm shutting this place down
-Colin the Feline roams alone
-Cashmere the Feline makes a noise
+Colin the Feline eats
+Cashmere the Feline eats
 Donnie the Canine goes to bed
 Dion the Canine goes to bed
 Wumpy the Canine goes to bed
