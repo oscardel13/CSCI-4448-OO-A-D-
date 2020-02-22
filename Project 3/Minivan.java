@@ -6,4 +6,7 @@ public class Minivan extends Category{
     public double cost(){
         return 75.00;
     }
+    public double price(){
+        return 5.00;
+    }
 }

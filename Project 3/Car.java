@@ -5,4 +5,8 @@ public abstract class Car{
         return description;
     }
     public abstract double cost();
+    public abstract double price();
+    public double total(){
+        return this.price() + this.cost();
+    }
 }

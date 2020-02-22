@@ -6,4 +6,7 @@ public class Standard extends Category{
     public double cost(){
         return 70.00;
     }
+    public double price(){
+        return 2.50;
+    }
 }

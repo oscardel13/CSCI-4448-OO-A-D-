@@ -7,7 +7,10 @@ public class GPS extends Decorator{
     public String getDescription(){
         return tmpcar.getDescription() + ", GPS";
     }
+    public double price(){
+        return tmpcar.price() + 10.00;
+    }
     public double cost(){
-        return tmpcar.cost() + 15.00;
+        return tmpcar.cost();
     }
   }

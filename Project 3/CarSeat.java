@@ -5,9 +5,12 @@ public class CarSeat extends Decorator{
     }
 
     public String getDescription(){
-        return tmpcar.getDescription() + ", Radio";
+        return tmpcar.getDescription() + ", Children Car Seat";
+    }
+    public double price(){
+        return tmpcar.price() + 5.00;
     }
     public double cost(){
-        return tmpcar.cost() + 10.00;
+        return tmpcar.cost();
     }
   }
