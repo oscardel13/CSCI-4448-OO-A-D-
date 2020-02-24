@@ -8,6 +8,7 @@ public class main {
         System.out.println(car1.getDescription());
         System.out.println(car1.price());
         System.out.println(car1.total());
+        System.out.println("THIS IS FOR FUN");
 
     }
 }
