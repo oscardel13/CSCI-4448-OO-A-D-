@@ -1,4 +1,6 @@
-public interface RentBehavior {
+abstract public class RentBehavior {
     //Interface for rent behaviors
-    public void rent();
+    abstract public int[] rent();
+    int carBehavior;
+    int nightBehavior;
 }

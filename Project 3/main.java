@@ -14,7 +14,11 @@ public class main {
         Customer oscar = new Regular("Oscar");
         Customer mikey = new Business("Mikey");
         System.out.println(colin.name);
-        colin.performRent();
+        int[] ok = colin.performRent();
+        System.out.println("NIGHTS WANTED "+ ok[1]);
+        System.out.println("CAN HE RENT "+ colin.checkRentStatus());
+        colin.changeRentStatus(false);
+        System.out.println("CAN HE RENT NOW "+ colin.checkRentStatus());
         System.out.println(calvin.name);
         calvin.performRent();
         System.out.println(oscar.name);
