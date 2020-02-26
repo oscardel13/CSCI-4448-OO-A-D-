@@ -4,7 +4,6 @@ import java.util.Random;
 public class RentCas extends RentBehavior {
     Random rand = new Random();
     public int[] rent(){
-        String action = "I rent super casually:";
         int[] rentB = new int[2];
         //Actual rent behavior
         int carsRented = 1; //Rents one car
@@ -12,7 +11,7 @@ public class RentCas extends RentBehavior {
         //Putting values in array
         rentB[0] = carsRented;
         rentB[1] = nightsRented;
-        System.out.println(action + " Renting "+ carsRented + " cars for " + nightsRented + " days");
+        System.out.println("Casual:  Renting "+ carsRented + " cars for " + nightsRented + " days");
         return rentB;
     }
 }

@@ -1,5 +1,8 @@
+import java.util.ArrayList;
+
 public class main {
     public static void main(String[] args) {
+        /*
         Car car1 = new Luxury("abc123");
         car1 = new GPS(car1);
         car1 = new Radio(car1);
@@ -25,6 +28,20 @@ public class main {
         oscar.performRent();
         System.out.println(mikey.name);
         mikey.performRent();
+        /
+         */
+        //Customer colin = new Casual("Colin");
+        Customer calvin = new Casual("Calvin");
+        Customer oscar = new Regular("Oscar");
+        Customer mikey = new Business("Mikey");
+        CustomerList cL = new CustomerList();
+        cL.addCustomer(new Casual("Colin"));
+        cL.addCustomer(oscar);
+        cL.printList();
+        System.out.println(cL.getList());
+        ArrayList<Customer> testo = cL.getList();
+        System.out.println("My name is " + testo.get(0).name + " and I " + testo.get(0).performRent());
+
 
 
     }
