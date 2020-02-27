@@ -1,4 +1,4 @@
-public class Economy extends Category{
+public class Economy extends Car{
     public Economy(String L){
         description =  "Economy";
         this.Licence = L;

@@ -1,4 +1,4 @@
-public class Minivan extends Category{
+public class Minivan extends Car{
     public Minivan(String L){
         description =  "Mini Van";
         this.Licence = L;

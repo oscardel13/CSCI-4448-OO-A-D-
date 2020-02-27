@@ -1,4 +1,4 @@
-public class SUV extends Category{
+public class SUV extends Car{
     public SUV(String L){
         description =  "SUV";
         this.Licence = L;

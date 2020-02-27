@@ -1,6 +1,7 @@
 public abstract class Car{
     String description = "";
     String Licence = "";
+    boolean rented = false;
     public String getDescription() {
         return description;
     }
@@ -9,4 +10,5 @@ public abstract class Car{
     public double total(){
         return this.price() + this.cost();
     }
+
 }

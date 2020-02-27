@@ -1,4 +1,4 @@
-public class Standard extends Category{
+public class Standard extends Car{
     public Standard(String L){
         description =  "Standard";
         this.Licence = L;

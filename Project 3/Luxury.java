@@ -1,4 +1,4 @@
-public class Luxury extends Category{
+public class Luxury extends Car{
     public Luxury(String L){
         description =  "Luxury";
         this.Licence = L;
