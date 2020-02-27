@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class main {
     public static void main(String[] args) {
         Car car1 = new Luxury("abc123");
@@ -7,39 +5,27 @@ public class main {
         car1 = new Radio(car1);
         car1 = new CarSeat(car1);
         car1 = new CarSeat(car1);
-        System.out.println(car1.getDescription());
-        System.out.println(car1.price());
-        System.out.println(car1.total());
-        System.out.println("THIS IS FOR FUN");
-        Customer colin = new Casual("Colin");
-        Customer calvin = new Casual("Calvin");
-        Customer oscar = new Regular("Oscar");
-        Customer mikey = new Business("Mikey");
-        System.out.println(colin.name);
-        int[] ok = colin.performRent();
-        System.out.println("NIGHTS WANTED "+ ok[1]);
-        System.out.println("CAN HE RENT "+ colin.checkRentStatus());
-        colin.changeRentStatus(false);
-        System.out.println("CAN HE RENT NOW "+ colin.checkRentStatus());
-        System.out.println(calvin.name);
-        calvin.performRent();
-        System.out.println(oscar.name);
-        oscar.performRent();
-        System.out.println(mikey.name);
-        mikey.performRent();
-        //Customer colin = new Casual("Colin");
-        //Customer calvin = new Casual("Calvin");
-        //Customer oscar = new Regular("Oscar");
-        //Customer mikey = new Business("Mikey");
-        CustomerList cL = new CustomerList();
-        cL.addCustomer(new Casual("Colin"));
-        cL.addCustomer(oscar);
-        cL.printList();
-        System.out.println(cL.getList());
-        ArrayList<Customer> testo = cL.getList();
-        System.out.println("My name is " + testo.get(0).name + " and I " + testo.get(0).performRent());
-        cL.createDefault();
-        cL.printList();
+        CarList Inv = new CarList();
+        Inv.createDefault();
+        AvailableCars Ava = new AvailableCars(Inv.getList());
+        CustomerList cust = new CustomerList();
+        cust.createDefault();
+        Store boulderrental = new Store(Ava, cust);
+        boulderrental.addrenter(Ava.Inventory.get(0), cust.customerList.get(0), 1);
+        boulderrental.addrenter(Ava.Inventory.get(1), cust.customerList.get(1), 2);
+        Ava.getAvailibles();
+        Ava.printList();
+        System.out.println(Inv.Inventory.get(0).rented);
+        boulderrental.newday();
+        //boulderrental.returncar(boulderrental.rentlist.get(0));
+        System.out.println("New Day 1, car count: " + Ava.getSize());
+        Ava.getAvailibles();
+        Ava.printList();
+        boulderrental.newday();
+        System.out.println("New Day 2, car count: " + Ava.getSize());
+        Ava.getAvailibles();
+        Ava.printList();
+
 
     }
 }

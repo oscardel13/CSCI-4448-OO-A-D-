@@ -7,6 +7,7 @@ public class AvailableCars{
     }
 
     public ArrayList<Car> getAvailibles(){
+        clearAv();
         for(Car car:Inventory){
             if (car.rented == false)
                 Available.add(car);
