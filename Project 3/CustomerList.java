@@ -7,7 +7,7 @@ public class CustomerList {
         customerList.add(cust);
         System.out.println("Added " + cust.name + " to list!");
     }
-
+    //Hello?
     public void createDefault(){
         customerList.clear();
         customerList.add(new Casual("Eddie"));

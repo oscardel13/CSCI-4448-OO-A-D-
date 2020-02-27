@@ -2,7 +2,6 @@ import java.util.ArrayList;
 
 public class main {
     public static void main(String[] args) {
-
         Car car1 = new Luxury("abc123");
         car1 = new GPS(car1);
         car1 = new Radio(car1);
