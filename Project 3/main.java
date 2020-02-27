@@ -24,7 +24,7 @@ public class main {
         // System.out.println("New Day 2, car count: " + Ava.getSize());
         // Ava.getAvailibles();
         // Ava.printList();
-
+        // HOPEFULLY MY GIT IS CONFIGURED
 
     }
 }
