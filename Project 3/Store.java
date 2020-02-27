@@ -15,10 +15,12 @@ public class Store{
         Customer client;
         int renttime;
         int counter = 0;
+        int cost;
         public Rented(Car ca, Customer cl, int i){
             car = ca;
             client = cl;
             renttime = i;
+            // maybe add cost
         }
     }
 
@@ -27,6 +29,8 @@ public class Store{
         car.rented = true;
         rentlist.add(new Rented(car,client,i));
     }
+
+    // THIS STILL NEED TO COMMUNICATE WITH ANNOUNCER TO PRINT COUNT OF ALL COMPLETED RENTALS WHICH CARS with options, customer, days rented, total fee
     public void returncar(Rented r){
         r.car.rented = false;
         rentlist.remove(r);
@@ -42,6 +46,7 @@ public class Store{
             }
             i++;
         }
+        //Call announcer to 
     }
     public Rented tryRent(int i){
         try{
