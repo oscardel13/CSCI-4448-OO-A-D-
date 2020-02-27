@@ -8,6 +8,22 @@ public class CustomerList {
         System.out.println("Added " + cust.name + " to list!");
     }
 
+    public void createDefault(){
+        customerList.clear();
+        customerList.add(new Casual("Eddie"));
+        customerList.add(new Casual("Colin"));
+        customerList.add(new Casual("Custard"));
+        customerList.add(new Casual("Oscar"));
+        customerList.add(new Casual("Cassie"));
+        customerList.add(new Business("Fondlebirts"));
+        customerList.add(new Regular("Reggie"));
+        customerList.add(new Regular("Ronald"));
+        customerList.add(new Regular("Rwonda"));
+        customerList.add(new Business("Brenda"));
+        customerList.add(new Business("Ben"));
+        customerList.add(new Business("Birdman"));
+    }
+
     public void printList(){
         //iterating ArrayList
         for(Customer customer:customerList)
