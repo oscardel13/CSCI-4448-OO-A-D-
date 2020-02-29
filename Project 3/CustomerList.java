@@ -15,7 +15,7 @@ public class CustomerList {
         customerList.add(new Casual("Custard"));
         customerList.add(new Casual("Oscar"));
         customerList.add(new Casual("Cassie"));
-        customerList.add(new Business("Fondlebirts"));
+        customerList.add(new Casual("Fondlebirts"));
         customerList.add(new Regular("Reggie"));
         customerList.add(new Regular("Ronald"));
         customerList.add(new Regular("Rwonda"));
@@ -31,7 +31,9 @@ public class CustomerList {
     }
 
     public ArrayList<Customer> getList(){
-        return(customerList);
+        //Makes a clone of the list, so that changes to original is not reflected in new list
+        ArrayList<Customer> arrayListClone =  (ArrayList<Customer>) customerList.clone();
+        return(arrayListClone);
     }
 
 }
