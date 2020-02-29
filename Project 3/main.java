@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class main {
     public static void main(String[] args) {
-
+    /*
         Car car1 = new Luxury("abc123");
         car1 = new GPS(car1);
         car1 = new Radio(car1);
@@ -20,7 +20,7 @@ public class main {
         int[] ok = colin.performRent();
         System.out.println("NIGHTS WANTED "+ ok[1]);
         System.out.println("CAN HE RENT "+ colin.checkRentStatus());
-        colin.changeRentStatus(false);
+        colin.changeRentStatus();
         System.out.println("CAN HE RENT NOW "+ colin.checkRentStatus());
         System.out.println(calvin.name);
         calvin.performRent();
@@ -32,6 +32,8 @@ public class main {
         //Customer calvin = new Casual("Calvin");
         //Customer oscar = new Regular("Oscar");
         //Customer mikey = new Business("Mikey");
+        Customer oscar = new Regular("Oscar");
+        oscar.changeRentStatus();
         CustomerList cL = new CustomerList();
         cL.addCustomer(new Casual("Colin"));
         cL.addCustomer(oscar);
@@ -41,6 +43,35 @@ public class main {
         System.out.println("My name is " + testo.get(0).name + " and I " + testo.get(0).performRent());
         cL.createDefault();
         cL.printList();
+        System.out.println("THIS IS BEEF");
+        System.out.println(testo.get(1).name);
+        FindCustomers beef = new FindCustomers(testo);
+        beef.printList();
+    */
+        FakeStore fakeStore = new FakeStore();
+        CustomerList cL = new CustomerList();
+        cL.createDefault();
+        ArrayList<Customer> custList = cL.getList();
+        //for(Customer customer:custList)
+        //    customer.changeRentStatus();
+        FindCustomers fC = new FindCustomers();
+
+        ArrayList<Customer> todaysCustomers = fC.todaysCustomers(custList);
+        for(Customer customer:todaysCustomers){
+            //If customer does not want more cars than store has we send the customer in
+            if(customer.carsWanted <= fakeStore.inventory){
+                fakeStore.checkoutCustomer(customer);
+            }else{
+                System.out.println("NOT ENOUGH CARS");
+            }
+        }
+        for(Customer customer:custList){
+            System.out.println("NEXT CUSTOMER");
+            System.out.println(customer.carsWanted);
+            System.out.println(customer.nightsWanted);
+            System.out.println(customer.canRent);
+            System.out.println(customer.daysUntilNextRent);
+        }
 
     }
 }
