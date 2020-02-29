@@ -7,7 +7,7 @@ abstract public class Customer {
     boolean canRent;
     //How many days till they can rent again
     int daysUntilNextRent;
-    //Rent behavior as ints
+    //Rent behavior as numbers
     int carsWanted;
     int nightsWanted;
 
