@@ -35,5 +35,10 @@ public class CustomerList {
         ArrayList<Customer> arrayListClone =  (ArrayList<Customer>) customerList.clone();
         return(arrayListClone);
     }
+    //Updates all customers
+    public void updateAllCustomers(){
+        for(Customer customer:customerList)
+            customer.dailyCustomerUpdate();
+    }
 
 }
