@@ -3,11 +3,13 @@ public class Rented{
     Customer client;
     int renttime;
     int counter = 0;
-    int cost;
-    public Rented(Car ca, Customer cl, int i){
+    Double cost;
+    String Description;
+    public Rented(Car ca, Customer cl, Double c, String d, int i){
         car = ca;
         client = cl;
         renttime = i;
-        // maybe add cost
+        cost = c;
+        Description = d;
     }
 }

@@ -14,17 +14,21 @@ public class main {
         Store boulderrental = new Store(Ava, cust);
         boulderrental.addrenter(Ava.Inventory.get(0), cust.customerList.get(0), 1);
         boulderrental.addrenter(Ava.Inventory.get(1), cust.customerList.get(1), 2);
-        // Ava.getAvailibles();
-        // Ava.printList();
-        // System.out.println(Inv.Inventory.get(0).rented);
-        // boulderrental.newday();
-        // System.out.println("New Day 1, car count: " + Ava.getSize());
-        // Ava.getAvailibles();
-        // Ava.printList();
-        // boulderrental.newday();
-        // System.out.println("New Day 2, car count: " + Ava.getSize());
-        // Ava.getAvailibles();
-        // Ava.printList();
+        System.out.println(Inv.Inventory.get(0).getDescription());
+        System.out.println(Inv.Inventory.get(0).rented);
+        Ava.getAvailibles();
+        Ava.printList();
+        System.out.println(Inv.Inventory.get(0).rented);
+        boulderrental.newday();
+        System.out.println("New Day 1, car count: " + Ava.getSize());
+        Ava.getAvailibles();
+        Ava.printList();
+        boulderrental.newday();
+        System.out.println("New Day 2, car count: " + Ava.getSize());
+        Ava.getAvailibles();
+        Ava.printList();
+        System.out.println(Inv.Inventory.get(0).getDescription());
+        System.out.println(Inv.Inventory.get(0).rented);
 
         /*
         Customer colin = new Casual("Colin");
@@ -63,33 +67,33 @@ public class main {
         FindCustomers beef = new FindCustomers(testo);
         beef.printList();
     */
-        FakeStore fakeStore = new FakeStore();
-        CustomerList cL = new CustomerList();
-        cL.createDefault();
-        ArrayList<Customer> custList = cL.getList();
-        //for(Customer customer:custList)
-        //    customer.changeRentStatus();
-        FindCustomers fC = new FindCustomers();
+        // FakeStore fakeStore = new FakeStore();
+        // CustomerList cL = new CustomerList();
+        // cL.createDefault();
+        // ArrayList<Customer> custList = cL.getList();
+        // //for(Customer customer:custList)
+        // //    customer.changeRentStatus();
+        // FindCustomers fC = new FindCustomers();
 
-        ArrayList<Customer> todaysCustomers = fC.todaysCustomers(custList);
-        for(Customer customer:todaysCustomers){
-            //If customer does not want more cars than store has we send the customer in
-            if(customer.carsWanted <= fakeStore.inventory){
-                fakeStore.checkoutCustomer(customer);
-            }else{
-                System.out.println("NOT ENOUGH CARS");
-            }
+        // ArrayList<Customer> todaysCustomers = fC.todaysCustomers(custList);
+        // for(Customer customer:todaysCustomers){
+        //     //If customer does not want more cars than store has we send the customer in
+        //     if(customer.carsWanted <= fakeStore.inventory){
+        //         fakeStore.checkoutCustomer(customer);
+        //     }else{
+        //         System.out.println("NOT ENOUGH CARS");
+        //     }
+        // }
+        // for(Customer customer:custList){
+        //     System.out.println("NEXT CUSTOMER");
+        //     System.out.println(customer.carsWanted);
+        //     System.out.println(customer.nightsWanted);
+        //     System.out.println(customer.canRent);
+        //     System.out.println(customer.daysUntilNextRent);
         }
-        for(Customer customer:custList){
-            System.out.println("NEXT CUSTOMER");
-            System.out.println(customer.carsWanted);
-            System.out.println(customer.nightsWanted);
-            System.out.println(customer.canRent);
-            System.out.println(customer.daysUntilNextRent);
-        }
 
 
 
 
-    }
+    
 }

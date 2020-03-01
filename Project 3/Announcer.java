@@ -14,6 +14,7 @@ public class Announcer{
     }
     public String display_activeRentals(ArrayList<Rented> cur){
         String lol = "Active Rentals Count: " + cur.size() + "\\"; //Still need the print of list
+        //String lol += inv.printlist
         return lol;
     }
     public String display_AvailableCars(ArrayList<Car> Ava){ //Better to add Availiblelist class then call funtion to add lol

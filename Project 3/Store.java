@@ -12,8 +12,19 @@ public class Store{
 
     public void addrenter(Car car, Customer client, int i){
         //Rented newR = new Rented(car,client,i);
+        Random rd = new Random();
         car.rented = true;
-        rentlist.add(new Rented(car,client,i));
+        Car tmp = car;
+        if (rd.nextBoolean() == true){
+            tmp = new Radio(tmp);
+        }
+        if (rd.nextBoolean() == true){
+            tmp = new GPS(tmp);
+        }
+        for (int j = 0; j < rd.nextInt(5);j++){
+            tmp = new CarSeat(tmp);
+        }
+        rentlist.add(new Rented(car,client,tmp.total(),tmp.getDescription(),i));
     }
 
     // THIS STILL NEED TO COMMUNICATE WITH ANNOUNCER TO PRINT COUNT OF ALL COMPLETED RENTALS WHICH CARS with options, customer, days rented, total fee
