@@ -13,20 +13,25 @@ public class main {
         CustomerList cust = new CustomerList();
         cust.createDefault();
         Store boulderrental = new Store(Ava, cust);
-        boulderrental.addrenter(Ava.Inventory.get(0), cust.customerList.get(0), 1);
-        boulderrental.addrenter(Ava.Inventory.get(1), cust.customerList.get(1), 2);
-        System.out.println(Inv.Inventory.get(0).getDescription());
-        System.out.println(Inv.Inventory.get(0).rented);
-        Ava.printList();
-        System.out.println(Inv.Inventory.get(0).rented);
-        boulderrental.newday();
-        System.out.println("New Day 1, car count: " + Ava.getSize());
-        Ava.printList();
-        boulderrental.newday();
-        System.out.println("New Day 2, car count: " + Ava.getSize());
-        Ava.printList();
-        System.out.println(Inv.Inventory.get(0).getDescription());
-        System.out.println(Inv.Inventory.get(0).rented);
+        // boulderrental.addrenter(Ava.Inventory.get(0), cust.customerList.get(0), 1);
+        // boulderrental.addrenter(Ava.Inventory.get(1), cust.customerList.get(1), 2);
+        // System.out.println(Inv.Inventory.get(0).getDescription());
+        // System.out.println(Inv.Inventory.get(0).rented);
+        // Ava.printList();
+        // System.out.println(Inv.Inventory.get(0).rented);
+        // System.out.println("Todays Revenue is: " + boulderrental.todaysrevenue);
+        // boulderrental.newday();
+        // System.out.println("New Day 1, car count: " + Ava.getSize());
+        // Ava.printList();
+        // System.out.println("Todays Revenue is: " + boulderrental.todaysrevenue);
+        // boulderrental.newday();
+        // System.out.println("New Day 2, car count: " + Ava.getSize());
+        // Ava.printList();
+        // System.out.println("Todays Revenue is: " + boulderrental.todaysrevenue);
+        // System.out.println(Inv.Inventory.get(0).getDescription());
+        // System.out.println(Inv.Inventory.get(0).rented);
+
+        boulderrental.customerRentals(client);
 
 
 

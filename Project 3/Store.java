@@ -56,6 +56,9 @@ public class Store{
     }
     public void newday(){
         int i = 0;
+        cleartodaysrev();
+        todaysrentals.clear();
+        Clientell.updateAllCustomers();
         while (tryRent(i) != null){
             rentlist.get(i).counter++;
             if (rentlist.get(i).counter == rentlist.get(i).renttime){
