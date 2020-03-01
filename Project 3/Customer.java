@@ -10,6 +10,7 @@ abstract public class Customer {
     //Rent behavior as numbers
     int carsWanted;
     int nightsWanted;
+    int carLimit;
 
     //Set customers name
     public Customer(String givenName){
@@ -24,8 +25,8 @@ abstract public class Customer {
 
     //Sets the customers rent behavior
     public void performRent(){
-        int[] grabNums = rentBehavior.rent();
-        System.out.println(rentBehavior.rent());
+        int[] grabNums = rentBehavior.rent(carLimit);
+        //System.out.println(rentBehavior.rent());
         carsWanted = grabNums[0];
         nightsWanted = grabNums[1];
         System.out.println("Cars wanted now " + carsWanted + " Nights wanted now " + nightsWanted);
@@ -46,7 +47,7 @@ abstract public class Customer {
         }
     }
     //This is used by Casual and Business customers
-    public void dailyUpdate(){
+    public void dailyCustomerUpdate(){
         //One day closer to renting again
         if(daysUntilNextRent != 0){
             daysUntilNextRent--;

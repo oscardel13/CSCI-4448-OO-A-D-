@@ -7,6 +7,8 @@ public class Regular extends Customer {
         setRentBehavior(new RentReg());
         //This is unique to regular customers
         carsCurrentlyRented = 0;
+        carLimit = 3;
+
     }
     //Overrides how daily updates function
     public void dailyUpdate(){
