@@ -12,7 +12,7 @@ public class Regular extends Customer {
 
     }
     //Overrides how daily updates function
-    public void dailyUpdate(){
+    public void dailyCustomerUpdate(){
         if(carLimit != 0){
             setRentStatus(true);
         }

@@ -29,7 +29,7 @@ public class FindCustomers extends CustomerList{
             //If customer does not want more cars than store has we send the customer in
             if(customer.carsWanted <= store.Inventory.getSize()){
                 //Send to store
-                System.out.println("Send to store");
+                store.customerRentals(customer);
             }else{
                 System.out.println("NOT ENOUGH CARS");
             }
