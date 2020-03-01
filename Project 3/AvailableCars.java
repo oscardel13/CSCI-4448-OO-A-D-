@@ -18,6 +18,9 @@ public class AvailableCars{
     public int getSize(){
         return Available.size();
     }
+    public void addCar(Car car){
+        Available.add(car);
+    }
     public void remove(Car car){
         Available.remove(car);
     }

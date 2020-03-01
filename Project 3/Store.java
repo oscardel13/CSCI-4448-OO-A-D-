@@ -32,12 +32,17 @@ public class Store{
         Inventory.remove(car);
     }
 
-    public void addCars(Customer client){
+    public void customerRentals(Customer client){
         int days = client.nightsWanted;
         int cars = client.carsWanted;
         for (int i = 0; i < cars;i++){
             addrenter(Inventory.Inventory.get(0), client, days);
         }
+        //Update customer info after renting cars
+        if(client.carLimit == 0) {
+            client.changeRentStatus();
+        }
+        client.updateDaysTillRent(days);
 
     }
 
@@ -45,6 +50,7 @@ public class Store{
     public void returncar(Rented r){
         r.car.rented = false;
         r.client.carLimit++;
+        Inventory.addCar(r.car);
         rentlist.remove(r);
 
     }
