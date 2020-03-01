@@ -3,6 +3,7 @@ import java.util.*;
 public class Store{
     AvailableCars Inventory;
     CustomerList Clientell;
+    History Hist;
     ArrayList<Rented> rentlist = new ArrayList<Rented>();
     ArrayList<Rented> todaysrentals = new ArrayList<Rented>();
     int todaysrevenue = 0;
@@ -27,6 +28,8 @@ public class Store{
             tmp = new CarSeat(tmp);
         }
         addtodaysrev(tmp.total());
+        Hist.addRent(client);
+        Hist.addRev(tmp.total());
         todaysrentals.add(new Rented(car,client,tmp.total(),tmp.getDescription(),i));
         rentlist.add(new Rented(car,client,tmp.total(),tmp.getDescription(),i));
         Inventory.remove(car);

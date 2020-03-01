@@ -22,10 +22,11 @@ public class Announcer{
         //String lol; nothing for now
         return "";
     }
-    public String display_History(String x){
+    public String display_History(History hist){
 
-        return "Cusuals in 35 days: " + x + "\\Business in 35 days : " + x + "\\Regulars in 35 days: " + x 
-        + "\\Total in 35 days" + x + "\\Total money made in 35 days: " + x;
+        return "Cusuals in 35 days: " + hist.cusrented + "\\Business in 35 days : " + hist.busrented + 
+        "\\Regulars in 35 days: " + hist.regrented + "\\Total in 35 days" + hist.rented + 
+        "\\Total money made in 35 days: " + hist.revenue;
     }
     public String display_newday(){
         return "";

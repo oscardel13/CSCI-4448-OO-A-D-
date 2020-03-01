@@ -5,27 +5,22 @@ public class History{
     int regrented = 0;
     int revenue = 0;
 
-    void addCus(){
+    void addRent(Customer client){
         rented++;
-        cusrented++;
+        if (client.getCustomerType() == "Casueal")
+            cusrented++;
+        if (client.getCustomerType() == "Business")
+            busrented++;
+        if (client.getCustomerType() == "Regular")
+            regrented++;
     }
 
-    void addBus(){
-        rented++;
-        busrented++;
-    }
-
-    void addReg(){
-        rented++;
-        regrented++;
-    }
-
-    void addRev(int rev){
+    void addRev(Double rev){
         revenue += rev;
     }
 
     void getHistory(){
-        // SEND TO ANNOUNCER
+        
     }
 
 }
