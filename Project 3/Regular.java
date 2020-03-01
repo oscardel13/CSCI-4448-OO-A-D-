@@ -8,10 +8,13 @@ public class Regular extends Customer {
         //This is unique to regular customers
         carsCurrentlyRented = 0;
         carLimit = 3;
+        type = "Regular";
 
     }
     //Overrides how daily updates function
     public void dailyUpdate(){
-
+        if(carLimit != 0){
+            setRentStatus(true);
+        }
     }
 }

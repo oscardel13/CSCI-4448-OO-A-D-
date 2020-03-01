@@ -23,4 +23,16 @@ public class FindCustomers extends CustomerList{
         //System.out.println(currentCustomers);
         return(currentCustomers);
     }
+
+    public void sendInCustomers(ArrayList<Customer> custList, Store store){
+        for(Customer customer:custList){
+            //If customer does not want more cars than store has we send the customer in
+            if(customer.carsWanted <= store.Inventory.getSize()){
+                //Send to store
+                System.out.println("Send to store");
+            }else{
+                System.out.println("NOT ENOUGH CARS");
+            }
+        }
+    }
 }

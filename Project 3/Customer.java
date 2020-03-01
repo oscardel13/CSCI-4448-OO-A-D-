@@ -11,6 +11,7 @@ abstract public class Customer {
     int carsWanted;
     int nightsWanted;
     int carLimit;
+    String type;
 
     //Set customers name
     public Customer(String givenName){
@@ -37,6 +38,10 @@ abstract public class Customer {
         return(canRent);
     }
 
+    //If we want to be specific about if they can rent or not
+    public void setRentStatus(boolean b){
+        canRent = b;
+    }
     //Change customers rent availability
     public void changeRentStatus(){
         //Switch boolean
@@ -46,6 +51,11 @@ abstract public class Customer {
             canRent = true;
         }
     }
+    //For seeing what kind of customer it is
+    public String getCustomerType(){
+        return type;
+    }
+
     //This is used by Casual and Business customers
     public void dailyCustomerUpdate(){
         //One day closer to renting again
