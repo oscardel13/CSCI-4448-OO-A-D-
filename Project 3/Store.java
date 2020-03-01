@@ -36,7 +36,7 @@ public class Store{
         int days = client.nightsWanted;
         int cars = client.carsWanted;
         for (int i = 0; i < cars;i++){
-            addrenter(Inventory.Inventory.get(0), client, days);
+            addrenter(Inventory.Available.get(0), client, days);
         }
         //Update customer info after renting cars
         if(client.carLimit == 0) {

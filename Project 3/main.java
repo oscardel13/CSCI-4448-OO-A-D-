@@ -12,7 +12,21 @@ public class main {
         Ava.getAvailibles();
         CustomerList cust = new CustomerList();
         cust.createDefault();
-        Store boulderrental = new Store(Ava, cust);
+        ArrayList<Customer> cL = cust.getList();
+        FindCustomers fC = new FindCustomers();
+
+        Store boulderRental = new Store(Ava, cust);
+        ArrayList<Customer> todaysCustomers = fC.todaysCustomers(cL);
+        fC.sendInCustomers(todaysCustomers, boulderRental);
+        System.out.println(Ava.getSize());
+        Ava.printList();
+
+        //FOR EVERYDAY LOOP WE
+        //ArrayList<Customer> todaysCustomers = fC.todaysCustomers(cL);
+        //sendInCustomers(todaysCustomers, boulderRental)
+
+
+        
         // boulderrental.addrenter(Ava.Inventory.get(0), cust.customerList.get(0), 1);
         // boulderrental.addrenter(Ava.Inventory.get(1), cust.customerList.get(1), 2);
         // System.out.println(Inv.Inventory.get(0).getDescription());
@@ -31,7 +45,6 @@ public class main {
         // System.out.println(Inv.Inventory.get(0).getDescription());
         // System.out.println(Inv.Inventory.get(0).rented);
 
-        boulderrental.customerRentals(client);
 
 
 
