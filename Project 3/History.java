@@ -7,7 +7,7 @@ public class History{
 
     void addRent(Customer client){
         rented++;
-        if (client.getCustomerType() == "Casueal")
+        if (client.getCustomerType() == "Casual")
             cusrented++;
         if (client.getCustomerType() == "Business")
             busrented++;

@@ -8,7 +8,7 @@ public class Store{
     ArrayList<Rented> todaysrentals = new ArrayList<Rented>();
     Announcer announcer;
     Double todaysrevenue = 0.00;
-    int day = 0;
+    int day = 1;
     public Store(AvailableCars inv, CustomerList ls){
         Inventory = inv;
         Clientell = ls;

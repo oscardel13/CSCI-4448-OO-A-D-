@@ -1,8 +1,6 @@
 import java.util.*;
 public class Announcer{
 
-
-
     public String display_Day(int x){
         return "Day: " + x;
     }
@@ -28,15 +26,15 @@ public class Announcer{
     //DONE, THIS PRINTS THE CUSTOMERS THAT CAME IN AND THE REVENUE MADE
     public String display_History(History hist){
 
-        return "Cusuals in 35 days: " + hist.cusrented + "\r\nBusiness in 35 days : " + hist.busrented + 
-        "\r\nRegulars in 35 days: " + hist.regrented + "\r\nTotal in 35 days" + hist.rented + 
+        return "Casuals in 35 days: " + hist.cusrented + "\r\nBusiness in 35 days : " + hist.busrented + 
+        "\r\nRegulars in 35 days: " + hist.regrented + "\r\nTotal in 35 days: " + hist.rented + 
         "\r\nTotal money made in 35 days: " + hist.revenue;
     }
     public String display_todayrevenue(Double i){
-        return "Revenue for today: " + i;
+        return "Revenue for today: " + i + "\r\n \r\n";
     }
     public String display_newday(int i){
-        return "Day: " + i;
+        return "Day: " + i + "\r\n";
     }
 
 }

@@ -6,7 +6,7 @@ public class FindCustomers extends CustomerList{
 
     public ArrayList<Customer> todaysCustomers(ArrayList<Customer> cL){
         currentCustomers.clear();
-        System.out.println(cL);
+        //System.out.println(cL);
         //Randomize order
         Collections.shuffle(cL);
         //System.out.println("Shuffled bitch" + cL);
@@ -30,8 +30,6 @@ public class FindCustomers extends CustomerList{
             if(customer.carsWanted <= store.Inventory.getSize()){
                 //Send to store
                 store.customerRentals(customer);
-            }else{
-                System.out.println("NOT ENOUGH CARS");
             }
         }
     }
