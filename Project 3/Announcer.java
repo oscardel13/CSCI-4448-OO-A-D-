@@ -34,12 +34,12 @@ public class Announcer{
     public void display_activeRentals(){
         out.printOut("\r\nActive Rentals Count: " + store.rentlist.size() + "\r\nActive Rentals List"); 
         for(Rented rec:store.rentlist)
-        out.printOut(rec.car.description + " Rented by: " + rec.client.name + " Licence Plate: " + rec.car.Licence); 
+        out.printOut(rec.car.description + " Rented by: " + rec.client.name + ", License Plate: " + rec.car.Licence);
     }
     public void display_AvailableCars(){ //Better to add Availiblelist class then call funtion to add lol
-        out.printOut("\r\nAvalaible Car Count: " + store.Inventory.Available.size() + "\r\nList of Cars:");
+        out.printOut("\r\nAvailable Car Count: " + store.Inventory.Available.size() + "\r\nList of Cars:");
         for(Car car:store.Inventory.Available)
-            out.printOut(car.description + ", Licence Plates: " + car.Licence);
+            out.printOut(car.description + ", License Plate: " + car.Licence);
     }
     //DONE, THIS PRINTS THE CUSTOMERS THAT CAME IN AND THE REVENUE MADE
     public void display_History(){

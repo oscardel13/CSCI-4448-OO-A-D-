@@ -1,0 +1,1444 @@
+Oscar Delgado and Colin Murphy Project 3
+Update: 02-03-2020 15:04:46
+
+Day: 1
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Economy, GPS, Children Car Seat, Children Car Seat Rented by: Custard For: 2 days with Total price: 120.0
+Car: Economy, GPS, Children Car Seat Rented by: Colin For: 1 days with Total price: 65.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Cassie For: 2 days with Total price: 117.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 277.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 267.0
+Car: Economy, Radio, Children Car Seat Rented by: Oscar For: 2 days with Total price: 112.0
+
+Active Rentals Count: 6
+Active Rentals List
+Economy Rented by: Custard, License Plate: aaa965
+Economy Rented by: Colin, License Plate: bbb852
+Economy Rented by: Cassie, License Plate: ccc852
+Economy Rented by: Rwonda, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+Economy Rented by: Oscar, License Plate: fff965
+
+Available Car Count: 18
+List of Cars:
+Economy, License Plate: ggg852
+Standard, License Plate: hhh258
+Standard, License Plate: iii963
+Standard, License Plate: jjj258
+Standard, License Plate: kkk963
+Standard, License Plate: lll963
+Luxury, License Plate: mmm258
+Luxury, License Plate: nnn369
+Luxury, License Plate: ooo58
+SUV, License Plate: ppp962
+SUV, License Plate: qqq796
+SUV, License Plate: rrr962
+SUV, License Plate: sss796
+SUV, License Plate: ttt796
+Mini Van, License Plate: uuu164
+Mini Van, License Plate: vvv785
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+
+Revenue for today: 958.0
+
+Day: 2
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Economy, GPS, Children Car Seat Rented by: Eddie For: 3 days with Total price: 165.0
+Car: Standard, Radio, GPS Rented by: Ben For: 7 days with Total price: 509.5
+Car: Standard, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 502.5
+Car: Standard, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 524.5
+Car: Standard, GPS Rented by: Colin For: 3 days with Total price: 222.5
+Car: Standard, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 3 days with Total price: 227.5
+
+Active Rentals Count: 11
+Active Rentals List
+Economy Rented by: Custard, License Plate: aaa965
+Economy Rented by: Cassie, License Plate: ccc852
+Economy Rented by: Rwonda, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+Economy Rented by: Oscar, License Plate: fff965
+Economy Rented by: Eddie, License Plate: ggg852
+Standard Rented by: Ben, License Plate: hhh258
+Standard Rented by: Ben, License Plate: iii963
+Standard Rented by: Ben, License Plate: jjj258
+Standard Rented by: Colin, License Plate: kkk963
+Standard Rented by: Rwonda, License Plate: lll963
+
+Available Car Count: 13
+List of Cars:
+Luxury, License Plate: mmm258
+Luxury, License Plate: nnn369
+Luxury, License Plate: ooo58
+SUV, License Plate: ppp962
+SUV, License Plate: qqq796
+SUV, License Plate: rrr962
+SUV, License Plate: sss796
+SUV, License Plate: ttt796
+Mini Van, License Plate: uuu164
+Mini Van, License Plate: vvv785
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+Economy, License Plate: bbb852
+
+Revenue for today: 2151.5
+
+Day: 3
+
+Complete Rentals: 1
+Complete Rentals List
+Car: Luxury, Children Car Seat Rented by: Fondlebirts For: 2 days with Total price: 315.0
+
+Active Rentals Count: 9
+Active Rentals List
+Economy Rented by: Rwonda, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+Economy Rented by: Eddie, License Plate: ggg852
+Standard Rented by: Ben, License Plate: hhh258
+Standard Rented by: Ben, License Plate: iii963
+Standard Rented by: Ben, License Plate: jjj258
+Standard Rented by: Colin, License Plate: kkk963
+Standard Rented by: Rwonda, License Plate: lll963
+Luxury Rented by: Fondlebirts, License Plate: mmm258
+
+Available Car Count: 15
+List of Cars:
+Luxury, License Plate: nnn369
+Luxury, License Plate: ooo58
+SUV, License Plate: ppp962
+SUV, License Plate: qqq796
+SUV, License Plate: rrr962
+SUV, License Plate: sss796
+SUV, License Plate: ttt796
+Mini Van, License Plate: uuu164
+Mini Van, License Plate: vvv785
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+Economy, License Plate: bbb852
+Economy, License Plate: aaa965
+Economy, License Plate: ccc852
+Economy, License Plate: fff965
+
+Revenue for today: 315.0
+
+Day: 4
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Luxury, Radio, Children Car Seat Rented by: Custard For: 1 days with Total price: 172.0
+Car: Luxury, Radio, Children Car Seat, Children Car Seat Rented by: Cassie For: 2 days with Total price: 327.0
+Car: SUV, GPS, Children Car Seat Rented by: Brenda For: 7 days with Total price: 582.5
+Car: SUV Rented by: Brenda For: 7 days with Total price: 567.5
+Car: SUV, Radio, GPS Rented by: Brenda For: 7 days with Total price: 584.5
+
+Active Rentals Count: 14
+Active Rentals List
+Economy Rented by: Rwonda, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+Economy Rented by: Eddie, License Plate: ggg852
+Standard Rented by: Ben, License Plate: hhh258
+Standard Rented by: Ben, License Plate: iii963
+Standard Rented by: Ben, License Plate: jjj258
+Standard Rented by: Colin, License Plate: kkk963
+Standard Rented by: Rwonda, License Plate: lll963
+Luxury Rented by: Fondlebirts, License Plate: mmm258
+Luxury Rented by: Custard, License Plate: nnn369
+Luxury Rented by: Cassie, License Plate: ooo58
+SUV Rented by: Brenda, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+
+Available Car Count: 10
+List of Cars:
+SUV, License Plate: sss796
+SUV, License Plate: ttt796
+Mini Van, License Plate: uuu164
+Mini Van, License Plate: vvv785
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+Economy, License Plate: bbb852
+Economy, License Plate: aaa965
+Economy, License Plate: ccc852
+Economy, License Plate: fff965
+
+Revenue for today: 2233.5
+
+Day: 5
+
+Complete Rentals: 4
+Complete Rentals List
+Car: SUV, Radio, Children Car Seat, Children Car Seat Rented by: Reggie For: 3 days with Total price: 264.5
+Car: SUV, Radio, Children Car Seat Rented by: Birdman For: 7 days with Total price: 579.5
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 557.0
+Car: Mini Van, Radio, GPS, Children Car Seat Rented by: Birdman For: 7 days with Total price: 552.0
+
+Active Rentals Count: 13
+Active Rentals List
+Economy Rented by: Rwonda, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+Standard Rented by: Ben, License Plate: hhh258
+Standard Rented by: Ben, License Plate: iii963
+Standard Rented by: Ben, License Plate: jjj258
+Luxury Rented by: Cassie, License Plate: ooo58
+SUV Rented by: Brenda, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+SUV Rented by: Reggie, License Plate: sss796
+SUV Rented by: Birdman, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+
+Available Car Count: 11
+List of Cars:
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+Economy, License Plate: bbb852
+Economy, License Plate: aaa965
+Economy, License Plate: ccc852
+Economy, License Plate: fff965
+Economy, License Plate: ggg852
+Standard, License Plate: kkk963
+Standard, License Plate: lll963
+Luxury, License Plate: mmm258
+Luxury, License Plate: nnn369
+
+Revenue for today: 1953.0
+
+Day: 6
+
+Complete Rentals: 4
+Complete Rentals List
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Custard For: 1 days with Total price: 107.0
+Car: Mini Van, Radio Rented by: Fondlebirts For: 1 days with Total price: 87.0
+Car: Economy, Radio, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 262.0
+Car: Economy, GPS Rented by: Ronald For: 3 days with Total price: 160.0
+
+Active Rentals Count: 14
+Active Rentals List
+Standard Rented by: Ben, License Plate: hhh258
+Standard Rented by: Ben, License Plate: iii963
+Standard Rented by: Ben, License Plate: jjj258
+SUV Rented by: Brenda, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+SUV Rented by: Reggie, License Plate: sss796
+SUV Rented by: Birdman, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Mini Van Rented by: Custard, License Plate: www164
+Mini Van Rented by: Fondlebirts, License Plate: xxx785
+Economy Rented by: Rwonda, License Plate: bbb852
+Economy Rented by: Ronald, License Plate: aaa965
+
+Available Car Count: 10
+List of Cars:
+Economy, License Plate: ccc852
+Economy, License Plate: fff965
+Economy, License Plate: ggg852
+Standard, License Plate: kkk963
+Standard, License Plate: lll963
+Luxury, License Plate: mmm258
+Luxury, License Plate: nnn369
+Economy, License Plate: ddd965
+Economy, License Plate: eee852
+Luxury, License Plate: ooo58
+
+Revenue for today: 616.0
+
+Day: 7
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Economy Rented by: Colin For: 2 days with Total price: 100.0
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Custard For: 1 days with Total price: 77.0
+Car: Economy, Radio Rented by: Oscar For: 1 days with Total price: 57.0
+Car: Standard, Radio, GPS, Children Car Seat Rented by: Ronald For: 5 days with Total price: 374.5
+Car: Standard, Children Car Seat Rented by: Ronald For: 5 days with Total price: 357.5
+
+Active Rentals Count: 17
+Active Rentals List
+Standard Rented by: Ben, License Plate: hhh258
+Standard Rented by: Ben, License Plate: iii963
+Standard Rented by: Ben, License Plate: jjj258
+SUV Rented by: Brenda, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+SUV Rented by: Reggie, License Plate: sss796
+SUV Rented by: Birdman, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Economy Rented by: Rwonda, License Plate: bbb852
+Economy Rented by: Ronald, License Plate: aaa965
+Economy Rented by: Colin, License Plate: ccc852
+Economy Rented by: Custard, License Plate: fff965
+Economy Rented by: Oscar, License Plate: ggg852
+Standard Rented by: Ronald, License Plate: kkk963
+Standard Rented by: Ronald, License Plate: lll963
+
+Available Car Count: 7
+List of Cars:
+Luxury, License Plate: mmm258
+Luxury, License Plate: nnn369
+Economy, License Plate: ddd965
+Economy, License Plate: eee852
+Luxury, License Plate: ooo58
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+
+Revenue for today: 966.0
+
+Day: 8
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Luxury, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 2 days with Total price: 337.0
+Car: Luxury, Radio, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 772.0
+
+Active Rentals Count: 16
+Active Rentals List
+Standard Rented by: Ben, License Plate: hhh258
+Standard Rented by: Ben, License Plate: iii963
+Standard Rented by: Ben, License Plate: jjj258
+SUV Rented by: Brenda, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+SUV Rented by: Birdman, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Economy Rented by: Rwonda, License Plate: bbb852
+Economy Rented by: Ronald, License Plate: aaa965
+Economy Rented by: Colin, License Plate: ccc852
+Standard Rented by: Ronald, License Plate: kkk963
+Standard Rented by: Ronald, License Plate: lll963
+Luxury Rented by: Fondlebirts, License Plate: mmm258
+Luxury Rented by: Rwonda, License Plate: nnn369
+
+Available Car Count: 8
+List of Cars:
+Economy, License Plate: ddd965
+Economy, License Plate: eee852
+Luxury, License Plate: ooo58
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+SUV, License Plate: sss796
+Economy, License Plate: fff965
+Economy, License Plate: ggg852
+
+Revenue for today: 1109.0
+
+Day: 9
+
+Complete Rentals: 7
+Complete Rentals List
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Colin For: 3 days with Total price: 177.0
+Car: Economy, Radio Rented by: Custard For: 3 days with Total price: 157.0
+Car: Luxury, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 792.0
+Car: Mini Van, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 390.0
+Car: Mini Van, Radio, Children Car Seat Rented by: Ben For: 7 days with Total price: 542.0
+Car: SUV, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 599.5
+Car: Economy, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 372.0
+
+Active Rentals Count: 18
+Active Rentals List
+SUV Rented by: Brenda, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+SUV Rented by: Birdman, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Economy Rented by: Rwonda, License Plate: bbb852
+Standard Rented by: Ronald, License Plate: kkk963
+Standard Rented by: Ronald, License Plate: lll963
+Luxury Rented by: Fondlebirts, License Plate: mmm258
+Luxury Rented by: Rwonda, License Plate: nnn369
+Economy Rented by: Colin, License Plate: ddd965
+Economy Rented by: Custard, License Plate: eee852
+Luxury Rented by: Reggie, License Plate: ooo58
+Mini Van Rented by: Reggie, License Plate: www164
+Mini Van Rented by: Ben, License Plate: xxx785
+SUV Rented by: Ben, License Plate: sss796
+Economy Rented by: Ben, License Plate: fff965
+
+Available Car Count: 6
+List of Cars:
+Economy, License Plate: ggg852
+Standard, License Plate: hhh258
+Standard, License Plate: iii963
+Standard, License Plate: jjj258
+Economy, License Plate: aaa965
+Economy, License Plate: ccc852
+
+Revenue for today: 3029.5
+
+Day: 10
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ronald For: 4 days with Total price: 237.0
+Car: Standard, Radio, GPS, Children Car Seat Rented by: Oscar For: 3 days with Total price: 234.5
+Car: Standard, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 237.5
+
+Active Rentals Count: 20
+Active Rentals List
+SUV Rented by: Brenda, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+SUV Rented by: Birdman, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Economy Rented by: Rwonda, License Plate: bbb852
+Standard Rented by: Ronald, License Plate: kkk963
+Standard Rented by: Ronald, License Plate: lll963
+Luxury Rented by: Rwonda, License Plate: nnn369
+Economy Rented by: Colin, License Plate: ddd965
+Economy Rented by: Custard, License Plate: eee852
+Luxury Rented by: Reggie, License Plate: ooo58
+Mini Van Rented by: Reggie, License Plate: www164
+Mini Van Rented by: Ben, License Plate: xxx785
+SUV Rented by: Ben, License Plate: sss796
+Economy Rented by: Ben, License Plate: fff965
+Economy Rented by: Ronald, License Plate: ggg852
+Standard Rented by: Oscar, License Plate: hhh258
+Standard Rented by: Fondlebirts, License Plate: iii963
+
+Available Car Count: 4
+List of Cars:
+Standard, License Plate: jjj258
+Economy, License Plate: aaa965
+Economy, License Plate: ccc852
+Luxury, License Plate: mmm258
+
+Revenue for today: 709.0
+
+Day: 11
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Standard, Children Car Seat, Children Car Seat Rented by: Rwonda For: 3 days with Total price: 222.5
+Car: Economy, Children Car Seat, Children Car Seat Rented by: Rwonda For: 3 days with Total price: 160.0
+Car: Economy, Children Car Seat, Children Car Seat Rented by: Eddie For: 1 days with Total price: 60.0
+
+Active Rentals Count: 19
+Active Rentals List
+SUV Rented by: Birdman, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Ronald, License Plate: kkk963
+Standard Rented by: Ronald, License Plate: lll963
+Luxury Rented by: Rwonda, License Plate: nnn369
+Economy Rented by: Colin, License Plate: ddd965
+Economy Rented by: Custard, License Plate: eee852
+Luxury Rented by: Reggie, License Plate: ooo58
+Mini Van Rented by: Reggie, License Plate: www164
+Mini Van Rented by: Ben, License Plate: xxx785
+SUV Rented by: Ben, License Plate: sss796
+Economy Rented by: Ben, License Plate: fff965
+Economy Rented by: Ronald, License Plate: ggg852
+Standard Rented by: Oscar, License Plate: hhh258
+Standard Rented by: Fondlebirts, License Plate: iii963
+Standard Rented by: Rwonda, License Plate: jjj258
+Economy Rented by: Rwonda, License Plate: aaa965
+Economy Rented by: Eddie, License Plate: ccc852
+
+Available Car Count: 5
+List of Cars:
+Luxury, License Plate: mmm258
+SUV, License Plate: ppp962
+SUV, License Plate: qqq796
+SUV, License Plate: rrr962
+Economy, License Plate: bbb852
+
+Revenue for today: 442.5
+
+Day: 12
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Luxury, Radio, Children Car Seat, Children Car Seat Rented by: Cassie For: 2 days with Total price: 327.0
+Car: SUV Rented by: Eddie For: 2 days with Total price: 167.5
+Car: SUV, Children Car Seat Rented by: Brenda For: 7 days with Total price: 572.5
+Car: SUV, Radio, GPS, Children Car Seat Rented by: Brenda For: 7 days with Total price: 589.5
+Car: Economy, Children Car Seat Rented by: Brenda For: 7 days with Total price: 355.0
+
+Active Rentals Count: 16
+Active Rentals List
+Luxury Rented by: Rwonda, License Plate: nnn369
+Luxury Rented by: Reggie, License Plate: ooo58
+Mini Van Rented by: Reggie, License Plate: www164
+Mini Van Rented by: Ben, License Plate: xxx785
+SUV Rented by: Ben, License Plate: sss796
+Economy Rented by: Ben, License Plate: fff965
+Economy Rented by: Ronald, License Plate: ggg852
+Standard Rented by: Oscar, License Plate: hhh258
+Standard Rented by: Fondlebirts, License Plate: iii963
+Standard Rented by: Rwonda, License Plate: jjj258
+Economy Rented by: Rwonda, License Plate: aaa965
+Luxury Rented by: Cassie, License Plate: mmm258
+SUV Rented by: Eddie, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+
+Available Car Count: 8
+List of Cars:
+SUV, License Plate: ttt796
+Mini Van, License Plate: uuu164
+Mini Van, License Plate: vvv785
+Standard, License Plate: kkk963
+Standard, License Plate: lll963
+Economy, License Plate: ddd965
+Economy, License Plate: eee852
+Economy, License Plate: ccc852
+
+Revenue for today: 2011.5
+
+Day: 13
+
+Complete Rentals: 5
+Complete Rentals List
+Car: SUV, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Oscar For: 2 days with Total price: 192.5
+Car: Mini Van, Radio, GPS Rented by: Birdman For: 7 days with Total price: 547.0
+Car: Mini Van, Radio Rented by: Birdman For: 7 days with Total price: 537.0
+Car: Standard, GPS Rented by: Birdman For: 7 days with Total price: 502.5
+Car: Standard, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Colin For: 2 days with Total price: 157.5
+
+Active Rentals Count: 18
+Active Rentals List
+Luxury Rented by: Reggie, License Plate: ooo58
+Mini Van Rented by: Reggie, License Plate: www164
+Mini Van Rented by: Ben, License Plate: xxx785
+SUV Rented by: Ben, License Plate: sss796
+Economy Rented by: Ben, License Plate: fff965
+Economy Rented by: Ronald, License Plate: ggg852
+Standard Rented by: Rwonda, License Plate: jjj258
+Economy Rented by: Rwonda, License Plate: aaa965
+Luxury Rented by: Cassie, License Plate: mmm258
+SUV Rented by: Eddie, License Plate: ppp962
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+SUV Rented by: Oscar, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Standard Rented by: Colin, License Plate: lll963
+
+Available Car Count: 6
+List of Cars:
+Economy, License Plate: ddd965
+Economy, License Plate: eee852
+Economy, License Plate: ccc852
+Luxury, License Plate: nnn369
+Standard, License Plate: hhh258
+Standard, License Plate: iii963
+
+Revenue for today: 1936.5
+
+Day: 14
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Economy, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 1 days with Total price: 75.0
+Car: Economy, Radio, GPS, Children Car Seat Rented by: Rwonda For: 4 days with Total price: 222.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Eddie For: 2 days with Total price: 117.0
+
+Active Rentals Count: 14
+Active Rentals List
+Mini Van Rented by: Ben, License Plate: xxx785
+SUV Rented by: Ben, License Plate: sss796
+Economy Rented by: Ben, License Plate: fff965
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+SUV Rented by: Oscar, License Plate: ttt796
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Standard Rented by: Colin, License Plate: lll963
+Economy Rented by: Fondlebirts, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+Economy Rented by: Eddie, License Plate: ccc852
+
+Available Car Count: 10
+List of Cars:
+Luxury, License Plate: nnn369
+Standard, License Plate: hhh258
+Standard, License Plate: iii963
+Luxury, License Plate: ooo58
+Mini Van, License Plate: www164
+Economy, License Plate: ggg852
+Standard, License Plate: jjj258
+Economy, License Plate: aaa965
+Luxury, License Plate: mmm258
+SUV, License Plate: ppp962
+
+Revenue for today: 414.0
+
+Day: 15
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Luxury Rented by: Reggie For: 5 days with Total price: 760.0
+Car: Standard, Radio, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 369.5
+Car: Standard Rented by: Custard For: 3 days with Total price: 212.5
+
+Active Rentals Count: 14
+Active Rentals List
+Mini Van Rented by: Ben, License Plate: xxx785
+SUV Rented by: Ben, License Plate: sss796
+Economy Rented by: Ben, License Plate: fff965
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Economy Rented by: Rwonda, License Plate: eee852
+Economy Rented by: Eddie, License Plate: ccc852
+Luxury Rented by: Reggie, License Plate: nnn369
+Standard Rented by: Reggie, License Plate: hhh258
+Standard Rented by: Custard, License Plate: iii963
+
+Available Car Count: 10
+List of Cars:
+Luxury, License Plate: ooo58
+Mini Van, License Plate: www164
+Economy, License Plate: ggg852
+Standard, License Plate: jjj258
+Economy, License Plate: aaa965
+Luxury, License Plate: mmm258
+SUV, License Plate: ppp962
+SUV, License Plate: ttt796
+Standard, License Plate: lll963
+Economy, License Plate: ddd965
+
+Revenue for today: 1342.0
+
+Day: 16
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Luxury, Radio, Children Car Seat, Children Car Seat Rented by: Eddie For: 1 days with Total price: 177.0
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Oscar For: 1 days with Total price: 112.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 167.0
+
+Active Rentals Count: 13
+Active Rentals List
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Economy Rented by: Rwonda, License Plate: eee852
+Luxury Rented by: Reggie, License Plate: nnn369
+Standard Rented by: Reggie, License Plate: hhh258
+Standard Rented by: Custard, License Plate: iii963
+Luxury Rented by: Eddie, License Plate: ooo58
+Mini Van Rented by: Oscar, License Plate: www164
+Economy Rented by: Fondlebirts, License Plate: ggg852
+
+Available Car Count: 11
+List of Cars:
+Standard, License Plate: jjj258
+Economy, License Plate: aaa965
+Luxury, License Plate: mmm258
+SUV, License Plate: ppp962
+SUV, License Plate: ttt796
+Standard, License Plate: lll963
+Economy, License Plate: ddd965
+Mini Van, License Plate: xxx785
+SUV, License Plate: sss796
+Economy, License Plate: fff965
+Economy, License Plate: ccc852
+
+Revenue for today: 456.0
+
+Day: 17
+
+Complete Rentals: 4
+Complete Rentals List
+Car: Standard, GPS, Children Car Seat Rented by: Eddie For: 1 days with Total price: 87.5
+Car: Economy, GPS Rented by: Oscar For: 3 days with Total price: 160.0
+Car: Luxury, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 787.0
+Car: SUV, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 412.5
+
+Active Rentals Count: 15
+Active Rentals List
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Economy Rented by: Rwonda, License Plate: eee852
+Luxury Rented by: Reggie, License Plate: nnn369
+Standard Rented by: Reggie, License Plate: hhh258
+Standard Rented by: Custard, License Plate: iii963
+Economy Rented by: Fondlebirts, License Plate: ggg852
+Standard Rented by: Eddie, License Plate: jjj258
+Economy Rented by: Oscar, License Plate: aaa965
+Luxury Rented by: Rwonda, License Plate: mmm258
+SUV Rented by: Rwonda, License Plate: ppp962
+
+Available Car Count: 9
+List of Cars:
+SUV, License Plate: ttt796
+Standard, License Plate: lll963
+Economy, License Plate: ddd965
+Mini Van, License Plate: xxx785
+SUV, License Plate: sss796
+Economy, License Plate: fff965
+Economy, License Plate: ccc852
+Luxury, License Plate: ooo58
+Mini Van, License Plate: www164
+
+Revenue for today: 1447.0
+
+Day: 18
+
+Complete Rentals: 5
+Complete Rentals List
+Car: SUV, Radio, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 589.5
+Car: Standard, Radio, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 514.5
+Car: Economy, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 365.0
+Car: Mini Van, Children Car Seat, Children Car Seat Rented by: Reggie For: 3 days with Total price: 240.0
+Car: SUV, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Colin For: 1 days with Total price: 102.5
+
+Active Rentals Count: 17
+Active Rentals List
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Luxury Rented by: Reggie, License Plate: nnn369
+Standard Rented by: Reggie, License Plate: hhh258
+Economy Rented by: Fondlebirts, License Plate: ggg852
+Economy Rented by: Oscar, License Plate: aaa965
+Luxury Rented by: Rwonda, License Plate: mmm258
+SUV Rented by: Rwonda, License Plate: ppp962
+SUV Rented by: Ben, License Plate: ttt796
+Standard Rented by: Ben, License Plate: lll963
+Economy Rented by: Ben, License Plate: ddd965
+Mini Van Rented by: Reggie, License Plate: xxx785
+SUV Rented by: Colin, License Plate: sss796
+
+Available Car Count: 7
+List of Cars:
+Economy, License Plate: fff965
+Economy, License Plate: ccc852
+Luxury, License Plate: ooo58
+Mini Van, License Plate: www164
+Economy, License Plate: eee852
+Standard, License Plate: iii963
+Standard, License Plate: jjj258
+
+Revenue for today: 1811.5
+
+Day: 19
+
+Complete Rentals: 4
+Complete Rentals List
+Car: Economy, Children Car Seat Rented by: Colin For: 2 days with Total price: 105.0
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 177.0
+Car: Luxury, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 480.0
+Car: Mini Van, Children Car Seat, Children Car Seat Rented by: Cassie For: 1 days with Total price: 90.0
+
+Active Rentals Count: 16
+Active Rentals List
+Mini Van Rented by: Birdman, License Plate: uuu164
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Luxury Rented by: Reggie, License Plate: nnn369
+Standard Rented by: Reggie, License Plate: hhh258
+Economy Rented by: Oscar, License Plate: aaa965
+Luxury Rented by: Rwonda, License Plate: mmm258
+SUV Rented by: Rwonda, License Plate: ppp962
+SUV Rented by: Ben, License Plate: ttt796
+Standard Rented by: Ben, License Plate: lll963
+Economy Rented by: Ben, License Plate: ddd965
+Mini Van Rented by: Reggie, License Plate: xxx785
+Economy Rented by: Colin, License Plate: fff965
+Economy Rented by: Ronald, License Plate: ccc852
+Luxury Rented by: Ronald, License Plate: ooo58
+Mini Van Rented by: Cassie, License Plate: www164
+
+Available Car Count: 8
+List of Cars:
+Economy, License Plate: eee852
+Standard, License Plate: iii963
+Standard, License Plate: jjj258
+SUV, License Plate: qqq796
+SUV, License Plate: rrr962
+Economy, License Plate: bbb852
+Economy, License Plate: ggg852
+SUV, License Plate: sss796
+
+Revenue for today: 852.0
+
+Day: 20
+
+Complete Rentals: 7
+Complete Rentals List
+Car: Economy, Radio, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 262.0
+Car: Standard, Radio, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Oscar For: 3 days with Total price: 239.5
+Car: Standard, GPS Rented by: Eddie For: 3 days with Total price: 222.5
+Car: SUV, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 4 days with Total price: 347.5
+Car: SUV, GPS Rented by: Birdman For: 7 days with Total price: 577.5
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 367.0
+Car: Economy, GPS Rented by: Birdman For: 7 days with Total price: 360.0
+
+Active Rentals Count: 16
+Active Rentals List
+Luxury Rented by: Rwonda, License Plate: mmm258
+SUV Rented by: Rwonda, License Plate: ppp962
+SUV Rented by: Ben, License Plate: ttt796
+Standard Rented by: Ben, License Plate: lll963
+Economy Rented by: Ben, License Plate: ddd965
+Mini Van Rented by: Reggie, License Plate: xxx785
+Economy Rented by: Colin, License Plate: fff965
+Economy Rented by: Ronald, License Plate: ccc852
+Luxury Rented by: Ronald, License Plate: ooo58
+Economy Rented by: Rwonda, License Plate: eee852
+Standard Rented by: Oscar, License Plate: iii963
+Standard Rented by: Eddie, License Plate: jjj258
+SUV Rented by: Ronald, License Plate: qqq796
+SUV Rented by: Birdman, License Plate: rrr962
+Economy Rented by: Birdman, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+
+Available Car Count: 8
+List of Cars:
+SUV, License Plate: sss796
+Mini Van, License Plate: uuu164
+Mini Van, License Plate: vvv785
+Standard, License Plate: kkk963
+Luxury, License Plate: nnn369
+Standard, License Plate: hhh258
+Economy, License Plate: aaa965
+Mini Van, License Plate: www164
+
+Revenue for today: 2376.0
+
+Day: 21
+
+Complete Rentals: 7
+Complete Rentals List
+Car: SUV, Children Car Seat Rented by: Custard For: 1 days with Total price: 92.5
+Car: Mini Van, Radio, Children Car Seat, Children Car Seat Rented by: Cassie For: 2 days with Total price: 172.0
+Car: Mini Van, Radio, GPS Rented by: Brenda For: 7 days with Total price: 547.0
+Car: Standard, GPS, Children Car Seat Rented by: Brenda For: 7 days with Total price: 507.5
+Car: Luxury, GPS, Children Car Seat, Children Car Seat Rented by: Brenda For: 7 days with Total price: 1080.0
+Car: Standard, GPS, Children Car Seat, Children Car Seat Rented by: Colin For: 3 days with Total price: 232.5
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Reggie For: 3 days with Total price: 177.0
+
+Active Rentals Count: 21
+Active Rentals List
+Luxury Rented by: Rwonda, License Plate: mmm258
+SUV Rented by: Rwonda, License Plate: ppp962
+SUV Rented by: Ben, License Plate: ttt796
+Standard Rented by: Ben, License Plate: lll963
+Economy Rented by: Ben, License Plate: ddd965
+Economy Rented by: Ronald, License Plate: ccc852
+Luxury Rented by: Ronald, License Plate: ooo58
+Economy Rented by: Rwonda, License Plate: eee852
+Standard Rented by: Oscar, License Plate: iii963
+Standard Rented by: Eddie, License Plate: jjj258
+SUV Rented by: Ronald, License Plate: qqq796
+SUV Rented by: Birdman, License Plate: rrr962
+Economy Rented by: Birdman, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+SUV Rented by: Custard, License Plate: sss796
+Mini Van Rented by: Cassie, License Plate: uuu164
+Mini Van Rented by: Brenda, License Plate: vvv785
+Standard Rented by: Brenda, License Plate: kkk963
+Luxury Rented by: Brenda, License Plate: nnn369
+Standard Rented by: Colin, License Plate: hhh258
+Economy Rented by: Reggie, License Plate: aaa965
+
+Available Car Count: 3
+List of Cars:
+Mini Van, License Plate: www164
+Mini Van, License Plate: xxx785
+Economy, License Plate: fff965
+
+Revenue for today: 2808.5
+
+Day: 22
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Mini Van, Children Car Seat, Children Car Seat Rented by: Custard For: 2 days with Total price: 165.0
+Car: Mini Van, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 252.0
+
+Active Rentals Count: 18
+Active Rentals List
+SUV Rented by: Ben, License Plate: ttt796
+Standard Rented by: Ben, License Plate: lll963
+Economy Rented by: Ben, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+Standard Rented by: Oscar, License Plate: iii963
+Standard Rented by: Eddie, License Plate: jjj258
+SUV Rented by: Ronald, License Plate: qqq796
+SUV Rented by: Birdman, License Plate: rrr962
+Economy Rented by: Birdman, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Cassie, License Plate: uuu164
+Mini Van Rented by: Brenda, License Plate: vvv785
+Standard Rented by: Brenda, License Plate: kkk963
+Luxury Rented by: Brenda, License Plate: nnn369
+Standard Rented by: Colin, License Plate: hhh258
+Economy Rented by: Reggie, License Plate: aaa965
+Mini Van Rented by: Custard, License Plate: www164
+Mini Van Rented by: Fondlebirts, License Plate: xxx785
+
+Available Car Count: 6
+List of Cars:
+Economy, License Plate: fff965
+Luxury, License Plate: mmm258
+SUV, License Plate: ppp962
+Economy, License Plate: ccc852
+Luxury, License Plate: ooo58
+SUV, License Plate: sss796
+
+Revenue for today: 417.0
+
+Day: 23
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Economy Rented by: Eddie For: 3 days with Total price: 150.0
+Car: Luxury, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 787.0
+Car: SUV, Radio, GPS, Children Car Seat Rented by: Reggie For: 5 days with Total price: 429.5
+
+Active Rentals Count: 18
+Active Rentals List
+SUV Rented by: Ben, License Plate: ttt796
+Standard Rented by: Ben, License Plate: lll963
+Economy Rented by: Ben, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+SUV Rented by: Ronald, License Plate: qqq796
+SUV Rented by: Birdman, License Plate: rrr962
+Economy Rented by: Birdman, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Brenda, License Plate: vvv785
+Standard Rented by: Brenda, License Plate: kkk963
+Luxury Rented by: Brenda, License Plate: nnn369
+Standard Rented by: Colin, License Plate: hhh258
+Economy Rented by: Reggie, License Plate: aaa965
+Mini Van Rented by: Custard, License Plate: www164
+Mini Van Rented by: Fondlebirts, License Plate: xxx785
+Economy Rented by: Eddie, License Plate: fff965
+Luxury Rented by: Reggie, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+
+Available Car Count: 6
+List of Cars:
+Economy, License Plate: ccc852
+Luxury, License Plate: ooo58
+SUV, License Plate: sss796
+Standard, License Plate: iii963
+Standard, License Plate: jjj258
+Mini Van, License Plate: uuu164
+
+Revenue for today: 1366.5
+
+Day: 24
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Economy, Radio Rented by: Colin For: 2 days with Total price: 107.0
+Car: Luxury, Radio, Children Car Seat Rented by: Custard For: 2 days with Total price: 322.0
+Car: SUV, GPS, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 437.5
+Car: Standard, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 384.5
+Car: Standard, GPS Rented by: Ronald For: 5 days with Total price: 362.5
+Car: Mini Van, Radio, Children Car Seat Rented by: Ronald For: 5 days with Total price: 392.0
+
+Active Rentals Count: 20
+Active Rentals List
+SUV Rented by: Ben, License Plate: ttt796
+Standard Rented by: Ben, License Plate: lll963
+Economy Rented by: Ben, License Plate: ddd965
+Economy Rented by: Rwonda, License Plate: eee852
+SUV Rented by: Birdman, License Plate: rrr962
+Economy Rented by: Birdman, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Brenda, License Plate: vvv785
+Standard Rented by: Brenda, License Plate: kkk963
+Luxury Rented by: Brenda, License Plate: nnn369
+Mini Van Rented by: Fondlebirts, License Plate: xxx785
+Economy Rented by: Eddie, License Plate: fff965
+Luxury Rented by: Reggie, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+Economy Rented by: Colin, License Plate: ccc852
+Luxury Rented by: Custard, License Plate: ooo58
+SUV Rented by: Rwonda, License Plate: sss796
+Standard Rented by: Rwonda, License Plate: iii963
+Standard Rented by: Ronald, License Plate: jjj258
+Mini Van Rented by: Ronald, License Plate: uuu164
+
+Available Car Count: 4
+List of Cars:
+SUV, License Plate: qqq796
+Standard, License Plate: hhh258
+Economy, License Plate: aaa965
+Mini Van, License Plate: www164
+
+Revenue for today: 2005.5
+
+Day: 25
+
+Complete Rentals: 4
+Complete Rentals List
+Car: SUV, Radio, Children Car Seat, Children Car Seat Rented by: Cassie For: 1 days with Total price: 104.5
+Car: Standard, Radio, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 509.5
+Car: Economy, Radio, GPS Rented by: Ben For: 7 days with Total price: 367.0
+Car: Mini Van, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 545.0
+
+Active Rentals Count: 19
+Active Rentals List
+SUV Rented by: Birdman, License Plate: rrr962
+Economy Rented by: Birdman, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Brenda, License Plate: vvv785
+Standard Rented by: Brenda, License Plate: kkk963
+Luxury Rented by: Brenda, License Plate: nnn369
+Economy Rented by: Eddie, License Plate: fff965
+Luxury Rented by: Reggie, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+Economy Rented by: Colin, License Plate: ccc852
+Luxury Rented by: Custard, License Plate: ooo58
+SUV Rented by: Rwonda, License Plate: sss796
+Standard Rented by: Rwonda, License Plate: iii963
+Standard Rented by: Ronald, License Plate: jjj258
+Mini Van Rented by: Ronald, License Plate: uuu164
+SUV Rented by: Cassie, License Plate: qqq796
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Ben, License Plate: www164
+
+Available Car Count: 5
+List of Cars:
+SUV, License Plate: ttt796
+Standard, License Plate: lll963
+Economy, License Plate: ddd965
+Economy, License Plate: eee852
+Mini Van, License Plate: xxx785
+
+Revenue for today: 1526.0
+
+Day: 26
+
+Complete Rentals: 3
+Complete Rentals List
+Car: SUV, Children Car Seat Rented by: Reggie For: 4 days with Total price: 332.5
+Car: Standard, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 4 days with Total price: 302.5
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 182.0
+
+Active Rentals Count: 18
+Active Rentals List
+SUV Rented by: Birdman, License Plate: rrr962
+Economy Rented by: Birdman, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Brenda, License Plate: vvv785
+Standard Rented by: Brenda, License Plate: kkk963
+Luxury Rented by: Brenda, License Plate: nnn369
+Luxury Rented by: Reggie, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+SUV Rented by: Rwonda, License Plate: sss796
+Standard Rented by: Rwonda, License Plate: iii963
+Standard Rented by: Ronald, License Plate: jjj258
+Mini Van Rented by: Ronald, License Plate: uuu164
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Ben, License Plate: www164
+SUV Rented by: Reggie, License Plate: ttt796
+Standard Rented by: Ronald, License Plate: lll963
+Economy Rented by: Fondlebirts, License Plate: ddd965
+
+Available Car Count: 6
+List of Cars:
+Economy, License Plate: eee852
+Mini Van, License Plate: xxx785
+Economy, License Plate: fff965
+Economy, License Plate: ccc852
+Luxury, License Plate: ooo58
+SUV, License Plate: qqq796
+
+Revenue for today: 817.0
+
+Day: 27
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Cassie For: 3 days with Total price: 167.0
+Car: Mini Van, GPS, Children Car Seat, Children Car Seat Rented by: Colin For: 3 days with Total price: 250.0
+Car: Economy, GPS, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 280.0
+
+Active Rentals Count: 18
+Active Rentals List
+Mini Van Rented by: Brenda, License Plate: vvv785
+Standard Rented by: Brenda, License Plate: kkk963
+Luxury Rented by: Brenda, License Plate: nnn369
+Luxury Rented by: Reggie, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+SUV Rented by: Rwonda, License Plate: sss796
+Standard Rented by: Rwonda, License Plate: iii963
+Standard Rented by: Ronald, License Plate: jjj258
+Mini Van Rented by: Ronald, License Plate: uuu164
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Ben, License Plate: www164
+SUV Rented by: Reggie, License Plate: ttt796
+Standard Rented by: Ronald, License Plate: lll963
+Economy Rented by: Fondlebirts, License Plate: ddd965
+Economy Rented by: Cassie, License Plate: eee852
+Mini Van Rented by: Colin, License Plate: xxx785
+Economy Rented by: Rwonda, License Plate: fff965
+
+Available Car Count: 6
+List of Cars:
+Economy, License Plate: ccc852
+Luxury, License Plate: ooo58
+SUV, License Plate: qqq796
+SUV, License Plate: rrr962
+Economy, License Plate: bbb852
+Economy, License Plate: ggg852
+
+Revenue for today: 697.0
+
+Day: 28
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Custard For: 2 days with Total price: 127.0
+Car: Luxury, Radio, Children Car Seat Rented by: Eddie For: 1 days with Total price: 172.0
+
+Active Rentals Count: 15
+Active Rentals List
+SUV Rented by: Rwonda, License Plate: sss796
+Standard Rented by: Rwonda, License Plate: iii963
+Standard Rented by: Ronald, License Plate: jjj258
+Mini Van Rented by: Ronald, License Plate: uuu164
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Ben, License Plate: www164
+SUV Rented by: Reggie, License Plate: ttt796
+Standard Rented by: Ronald, License Plate: lll963
+Economy Rented by: Fondlebirts, License Plate: ddd965
+Economy Rented by: Cassie, License Plate: eee852
+Mini Van Rented by: Colin, License Plate: xxx785
+Economy Rented by: Rwonda, License Plate: fff965
+Economy Rented by: Custard, License Plate: ccc852
+Luxury Rented by: Eddie, License Plate: ooo58
+
+Available Car Count: 9
+List of Cars:
+SUV, License Plate: qqq796
+SUV, License Plate: rrr962
+Economy, License Plate: bbb852
+Economy, License Plate: ggg852
+Mini Van, License Plate: vvv785
+Standard, License Plate: kkk963
+Luxury, License Plate: nnn369
+Luxury, License Plate: mmm258
+SUV, License Plate: ppp962
+
+Revenue for today: 299.0
+
+Day: 29
+
+Complete Rentals: 6
+Complete Rentals List
+Car: SUV, GPS, Children Car Seat Rented by: Brenda For: 7 days with Total price: 582.5
+Car: SUV, Radio, GPS, Children Car Seat Rented by: Brenda For: 7 days with Total price: 589.5
+Car: Economy, Radio Rented by: Brenda For: 7 days with Total price: 357.0
+Car: Economy, GPS, Children Car Seat Rented by: Birdman For: 7 days with Total price: 365.0
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 557.0
+Car: Standard, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 519.5
+
+Active Rentals Count: 15
+Active Rentals List
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Ben, License Plate: www164
+SUV Rented by: Reggie, License Plate: ttt796
+Standard Rented by: Ronald, License Plate: lll963
+Economy Rented by: Cassie, License Plate: eee852
+Mini Van Rented by: Colin, License Plate: xxx785
+Economy Rented by: Rwonda, License Plate: fff965
+Economy Rented by: Custard, License Plate: ccc852
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+
+Available Car Count: 9
+List of Cars:
+Luxury, License Plate: nnn369
+Luxury, License Plate: mmm258
+SUV, License Plate: ppp962
+SUV, License Plate: sss796
+Standard, License Plate: iii963
+Standard, License Plate: jjj258
+Mini Van, License Plate: uuu164
+Economy, License Plate: ddd965
+Luxury, License Plate: ooo58
+
+Revenue for today: 2970.5
+
+Day: 30
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Luxury Rented by: Fondlebirts For: 3 days with Total price: 460.0
+Car: Luxury, Children Car Seat Rented by: Ronald For: 4 days with Total price: 615.0
+Car: SUV, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 429.5
+
+Active Rentals Count: 13
+Active Rentals List
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Ben, License Plate: www164
+Economy Rented by: Rwonda, License Plate: fff965
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Luxury Rented by: Fondlebirts, License Plate: nnn369
+Luxury Rented by: Ronald, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+
+Available Car Count: 11
+List of Cars:
+SUV, License Plate: sss796
+Standard, License Plate: iii963
+Standard, License Plate: jjj258
+Mini Van, License Plate: uuu164
+Economy, License Plate: ddd965
+Luxury, License Plate: ooo58
+SUV, License Plate: ttt796
+Standard, License Plate: lll963
+Economy, License Plate: eee852
+Mini Van, License Plate: xxx785
+Economy, License Plate: ccc852
+
+Revenue for today: 1504.5
+
+Day: 31
+
+Complete Rentals: 4
+Complete Rentals List
+Car: SUV, Radio, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Custard For: 3 days with Total price: 274.5
+Car: Standard, Radio, Children Car Seat, Children Car Seat Rented by: Eddie For: 2 days with Total price: 159.5
+Car: Standard, Radio, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 369.5
+Car: Mini Van, GPS, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 395.0
+
+Active Rentals Count: 17
+Active Rentals List
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Ben, License Plate: www164
+Economy Rented by: Rwonda, License Plate: fff965
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Luxury Rented by: Fondlebirts, License Plate: nnn369
+Luxury Rented by: Ronald, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+SUV Rented by: Custard, License Plate: sss796
+Standard Rented by: Eddie, License Plate: iii963
+Standard Rented by: Rwonda, License Plate: jjj258
+Mini Van Rented by: Rwonda, License Plate: uuu164
+
+Available Car Count: 7
+List of Cars:
+Economy, License Plate: ddd965
+Luxury, License Plate: ooo58
+SUV, License Plate: ttt796
+Standard, License Plate: lll963
+Economy, License Plate: eee852
+Mini Van, License Plate: xxx785
+Economy, License Plate: ccc852
+
+Revenue for today: 1198.5
+
+Day: 32
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Economy, GPS Rented by: Ronald For: 3 days with Total price: 160.0
+Car: Luxury Rented by: Colin For: 3 days with Total price: 460.0
+
+Active Rentals Count: 15
+Active Rentals List
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Luxury Rented by: Fondlebirts, License Plate: nnn369
+Luxury Rented by: Ronald, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+SUV Rented by: Custard, License Plate: sss796
+Standard Rented by: Eddie, License Plate: iii963
+Standard Rented by: Rwonda, License Plate: jjj258
+Mini Van Rented by: Rwonda, License Plate: uuu164
+Economy Rented by: Ronald, License Plate: ddd965
+Luxury Rented by: Colin, License Plate: ooo58
+
+Available Car Count: 9
+List of Cars:
+SUV, License Plate: ttt796
+Standard, License Plate: lll963
+Economy, License Plate: eee852
+Mini Van, License Plate: xxx785
+Economy, License Plate: ccc852
+Standard, License Plate: hhh258
+Economy, License Plate: aaa965
+Mini Van, License Plate: www164
+Economy, License Plate: fff965
+
+Revenue for today: 620.0
+
+Day: 33
+
+Complete Rentals: 3
+Complete Rentals List
+Car: SUV, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 1 days with Total price: 114.5
+Car: Standard, Children Car Seat Rented by: Oscar For: 3 days with Total price: 217.5
+Car: Economy, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ronald For: 5 days with Total price: 272.0
+
+Active Rentals Count: 16
+Active Rentals List
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Luxury Rented by: Ronald, License Plate: mmm258
+SUV Rented by: Reggie, License Plate: ppp962
+SUV Rented by: Custard, License Plate: sss796
+Standard Rented by: Rwonda, License Plate: jjj258
+Mini Van Rented by: Rwonda, License Plate: uuu164
+Economy Rented by: Ronald, License Plate: ddd965
+Luxury Rented by: Colin, License Plate: ooo58
+SUV Rented by: Fondlebirts, License Plate: ttt796
+Standard Rented by: Oscar, License Plate: lll963
+Economy Rented by: Ronald, License Plate: eee852
+
+Available Car Count: 8
+List of Cars:
+Mini Van, License Plate: xxx785
+Economy, License Plate: ccc852
+Standard, License Plate: hhh258
+Economy, License Plate: aaa965
+Mini Van, License Plate: www164
+Economy, License Plate: fff965
+Luxury, License Plate: nnn369
+Standard, License Plate: iii963
+
+Revenue for today: 604.0
+
+Day: 34
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Mini Van, Radio Rented by: Custard For: 3 days with Total price: 237.0
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 377.0
+Car: Standard, Radio, GPS Rented by: Ben For: 7 days with Total price: 509.5
+Car: Economy, Children Car Seat Rented by: Ben For: 7 days with Total price: 355.0
+Car: Mini Van, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 235.0
+
+Active Rentals Count: 18
+Active Rentals List
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+SUV Rented by: Reggie, License Plate: ppp962
+Standard Rented by: Rwonda, License Plate: jjj258
+Mini Van Rented by: Rwonda, License Plate: uuu164
+Economy Rented by: Ronald, License Plate: ddd965
+Luxury Rented by: Colin, License Plate: ooo58
+Standard Rented by: Oscar, License Plate: lll963
+Economy Rented by: Ronald, License Plate: eee852
+Mini Van Rented by: Custard, License Plate: xxx785
+Economy Rented by: Ben, License Plate: ccc852
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Fondlebirts, License Plate: www164
+
+Available Car Count: 6
+List of Cars:
+Economy, License Plate: fff965
+Luxury, License Plate: nnn369
+Standard, License Plate: iii963
+Luxury, License Plate: mmm258
+SUV, License Plate: sss796
+SUV, License Plate: ttt796
+
+Revenue for today: 1713.5
+
+Day: 35
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Economy, Children Car Seat, Children Car Seat Rented by: Eddie For: 2 days with Total price: 110.0
+Car: Luxury, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Reggie For: 4 days with Total price: 642.0
+Car: Standard, GPS Rented by: Rwonda For: 5 days with Total price: 362.5
+
+Active Rentals Count: 18
+Active Rentals List
+SUV Rented by: Brenda, License Plate: qqq796
+SUV Rented by: Brenda, License Plate: rrr962
+Economy Rented by: Brenda, License Plate: bbb852
+Economy Rented by: Birdman, License Plate: ggg852
+Mini Van Rented by: Birdman, License Plate: vvv785
+Standard Rented by: Birdman, License Plate: kkk963
+Standard Rented by: Rwonda, License Plate: jjj258
+Mini Van Rented by: Rwonda, License Plate: uuu164
+Standard Rented by: Oscar, License Plate: lll963
+Economy Rented by: Ronald, License Plate: eee852
+Mini Van Rented by: Custard, License Plate: xxx785
+Economy Rented by: Ben, License Plate: ccc852
+Standard Rented by: Ben, License Plate: hhh258
+Economy Rented by: Ben, License Plate: aaa965
+Mini Van Rented by: Fondlebirts, License Plate: www164
+Economy Rented by: Eddie, License Plate: fff965
+Luxury Rented by: Reggie, License Plate: nnn369
+Standard Rented by: Rwonda, License Plate: iii963
+
+Available Car Count: 6
+List of Cars:
+Luxury, License Plate: mmm258
+SUV, License Plate: sss796
+SUV, License Plate: ttt796
+SUV, License Plate: ppp962
+Economy, License Plate: ddd965
+Luxury, License Plate: ooo58
+
+Revenue for today: 1114.5
+
+Casuals in 35 days: 60
+Business in 35 days : 39
+Regulars in 35 days: 42
+Total customers in 35 days: 141
+Total revenue in 35 days: 46764

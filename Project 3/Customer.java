@@ -26,6 +26,7 @@ abstract public class Customer {
 
     //Sets the customers rent behavior
     public void performRent(){
+        //carLimit
         int[] grabNums = rentBehavior.rent(carLimit);
         //System.out.println(rentBehavior.rent());
         carsWanted = grabNums[0];

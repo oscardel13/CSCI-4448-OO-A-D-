@@ -9,7 +9,9 @@ public class OutFile {
     PrintWriter pw;
     public OutFile(){
         try{
-            file = new File("Project 3/P3Out");
+            //file = new File("Project 3/P3Out");
+            //^^^ for Oscars end, vvv for Colins end
+            file = new File("P3Out");
             pw = new PrintWriter(file);
             LocalDateTime datet = LocalDateTime.now();
             DateTimeFormatter datef = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
