@@ -32,7 +32,7 @@ public class CustomerList {
 
     public ArrayList<Customer> getList(){
         //Makes a clone of the list, so that changes to original is not reflected in new list
-        ArrayList<Customer> arrayListClone =  (ArrayList<Customer>) customerList.clone();
+        ArrayList<Customer> arrayListClone = customerList;
         return(arrayListClone);
     }
     //Updates all customers

@@ -4,16 +4,12 @@ public class AvailableCars{
     ArrayList<Car> Available = new ArrayList<Car>();
     public AvailableCars(ArrayList<Car> ave){
         Inventory = ave;
-    }
-
-    public ArrayList<Car> getAvailibles(){
-        clearAv();
         for(Car car:Inventory){
             if (car.rented == false)
                 Available.add(car);
         }
-        return Available;
     }
+
 
     public int getSize(){
         return Available.size();

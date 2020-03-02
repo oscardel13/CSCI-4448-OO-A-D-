@@ -5,7 +5,6 @@ public class Simulation{
         CarList Inv = new CarList();
         Inv.createDefault();
         AvailableCars Ava = new AvailableCars(Inv.getList());
-        Ava.getAvailibles();
         CustomerList cust = new CustomerList();
         cust.createDefault();
         boulderRental = new Store(Ava, cust);
