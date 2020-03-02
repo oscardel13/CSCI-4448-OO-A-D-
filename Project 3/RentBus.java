@@ -4,7 +4,7 @@ public class RentBus extends RentBehavior {
     public int[] rent(int limit){
         int[] rentB = new int[2];
         //Actual rent behavior
-        int carsRented = limit; //Rents 3 cars
+        int carsRented = 3; //Rents 3 cars
         int nightsRented = 7; //For 7 nights
         //Filling return array
         rentB[0] = carsRented;

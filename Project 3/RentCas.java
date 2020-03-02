@@ -4,10 +4,9 @@ import java.util.Random;
 public class RentCas extends RentBehavior {
     Random rand = new Random();
     public int[] rent(int limit){
-        limit = 1;
         int[] rentB = new int[2];
         //Actual rent behavior
-        int carsRented = limit; //Rents one car
+        int carsRented = 1; //Rents one car
         int nightsRented = rand.nextInt(3)+1; //Can rent for 1-3 nights
         //Putting values in array
         rentB[0] = carsRented;
