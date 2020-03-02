@@ -1,0 +1,1453 @@
+Oscar Delgado and Colin Murphy Project 3
+Update: 02-03-2020 03:30:56
+
+Day: 1
+
+Complete Rentals: 9
+Complete Rentals List
+Car: Economy, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Eddie For: 1 days with Total price: 65.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Cassie For: 1 days with Total price: 72.0
+Car: Economy, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 170.0
+Car: Economy, Radio, Children Car Seat Rented by: Ronald For: 3 days with Total price: 162.0
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 182.0
+Car: Economy, Children Car Seat, Children Car Seat Rented by: Custard For: 2 days with Total price: 110.0
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Brenda For: 7 days with Total price: 377.0
+Car: Standard, GPS Rented by: Brenda For: 7 days with Total price: 502.5
+Car: Standard, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Brenda For: 7 days with Total price: 519.5
+
+Active Rentals Count: 9
+Active Rentals List
+Economy Rented by: Eddie Licence Plate: aaa965
+Economy Rented by: Cassie Licence Plate: bbb852
+Economy Rented by: Ronald Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Economy Rented by: Ronald Licence Plate: eee852
+Economy Rented by: Custard Licence Plate: fff965
+Economy Rented by: Brenda Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: hhh258
+Standard Rented by: Brenda Licence Plate: iii963
+
+Avalaible Car Count: 15
+List of Cars:
+Standard, Licence Plates: jjj258
+Standard, Licence Plates: kkk963
+Standard, Licence Plates: lll963
+Luxury, Licence Plates: mmm258
+Luxury, Licence Plates: nnn369
+Luxury, Licence Plates: ooo58
+SUV, Licence Plates: ppp962
+SUV, Licence Plates: qqq796
+SUV, Licence Plates: rrr962
+SUV, Licence Plates: sss796
+SUV, Licence Plates: ttt796
+Mini Van, Licence Plates: uuu164
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: www164
+Mini Van, Licence Plates: xxx785
+
+Revenue for today: 2160.0
+
+Day: 2
+
+Complete Rentals: 7
+Complete Rentals List
+Car: Standard, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Reggie For: 4 days with Total price: 297.5
+Car: Standard, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Oscar For: 2 days with Total price: 157.5
+Car: Standard, GPS, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 372.5
+Car: Luxury, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 782.0
+Car: Luxury, GPS, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 1080.0
+Car: Luxury Rented by: Birdman For: 7 days with Total price: 1060.0
+Car: SUV, Radio, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 584.5
+
+Active Rentals Count: 14
+Active Rentals List
+Economy Rented by: Ronald Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Economy Rented by: Ronald Licence Plate: eee852
+Economy Rented by: Custard Licence Plate: fff965
+Economy Rented by: Brenda Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: hhh258
+Standard Rented by: Brenda Licence Plate: iii963
+Standard Rented by: Reggie Licence Plate: jjj258
+Standard Rented by: Oscar Licence Plate: kkk963
+Standard Rented by: Rwonda Licence Plate: lll963
+Luxury Rented by: Rwonda Licence Plate: mmm258
+Luxury Rented by: Birdman Licence Plate: nnn369
+Luxury Rented by: Birdman Licence Plate: ooo58
+SUV Rented by: Birdman Licence Plate: ppp962
+
+Avalaible Car Count: 10
+List of Cars:
+SUV, Licence Plates: qqq796
+SUV, Licence Plates: rrr962
+SUV, Licence Plates: sss796
+SUV, Licence Plates: ttt796
+Mini Van, Licence Plates: uuu164
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: www164
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: aaa965
+Economy, Licence Plates: bbb852
+
+Revenue for today: 4334.0
+
+Day: 3
+
+Complete Rentals: 5
+Complete Rentals List
+Car: SUV, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Reggie For: 4 days with Total price: 354.5
+Car: SUV, Children Car Seat Rented by: Eddie For: 1 days with Total price: 92.5
+Car: SUV, GPS, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 587.5
+Car: SUV Rented by: Ben For: 7 days with Total price: 567.5
+Car: Mini Van, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 545.0
+
+Active Rentals Count: 18
+Active Rentals List
+Economy Rented by: Ronald Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Economy Rented by: Ronald Licence Plate: eee852
+Economy Rented by: Brenda Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: hhh258
+Standard Rented by: Brenda Licence Plate: iii963
+Standard Rented by: Reggie Licence Plate: jjj258
+Standard Rented by: Oscar Licence Plate: kkk963
+Standard Rented by: Rwonda Licence Plate: lll963
+Luxury Rented by: Rwonda Licence Plate: mmm258
+Luxury Rented by: Birdman Licence Plate: nnn369
+Luxury Rented by: Birdman Licence Plate: ooo58
+SUV Rented by: Birdman Licence Plate: ppp962
+SUV Rented by: Reggie Licence Plate: qqq796
+SUV Rented by: Eddie Licence Plate: rrr962
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Mini Van Rented by: Ben Licence Plate: uuu164
+
+Avalaible Car Count: 6
+List of Cars:
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: www164
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: aaa965
+Economy, Licence Plates: bbb852
+Economy, Licence Plates: fff965
+
+Revenue for today: 2147.0
+
+Day: 4
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Colin For: 2 days with Total price: 192.0
+Car: Mini Van, GPS, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Custard For: 2 days with Total price: 185.0
+Car: Mini Van, Radio, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 397.0
+
+Active Rentals Count: 16
+Active Rentals List
+Economy Rented by: Brenda Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: hhh258
+Standard Rented by: Brenda Licence Plate: iii963
+Standard Rented by: Reggie Licence Plate: jjj258
+Standard Rented by: Rwonda Licence Plate: lll963
+Luxury Rented by: Rwonda Licence Plate: mmm258
+Luxury Rented by: Birdman Licence Plate: nnn369
+Luxury Rented by: Birdman Licence Plate: ooo58
+SUV Rented by: Birdman Licence Plate: ppp962
+SUV Rented by: Reggie Licence Plate: qqq796
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Mini Van Rented by: Ben Licence Plate: uuu164
+Mini Van Rented by: Colin Licence Plate: vvv785
+Mini Van Rented by: Custard Licence Plate: www164
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+
+Avalaible Car Count: 8
+List of Cars:
+Economy, Licence Plates: aaa965
+Economy, Licence Plates: bbb852
+Economy, Licence Plates: fff965
+Economy, Licence Plates: ccc852
+Economy, Licence Plates: ddd965
+Economy, Licence Plates: eee852
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: rrr962
+
+Revenue for today: 774.0
+
+Day: 5
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Economy, GPS Rented by: Fondlebirts For: 3 days with Total price: 160.0
+Car: Economy, GPS, Children Car Seat Rented by: Cassie For: 2 days with Total price: 115.0
+Car: Economy, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 4 days with Total price: 220.0
+Car: Economy, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ronald For: 4 days with Total price: 215.0
+Car: Economy, GPS, Children Car Seat Rented by: Ronald For: 4 days with Total price: 215.0
+
+Active Rentals Count: 21
+Active Rentals List
+Economy Rented by: Brenda Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: hhh258
+Standard Rented by: Brenda Licence Plate: iii963
+Standard Rented by: Reggie Licence Plate: jjj258
+Standard Rented by: Rwonda Licence Plate: lll963
+Luxury Rented by: Rwonda Licence Plate: mmm258
+Luxury Rented by: Birdman Licence Plate: nnn369
+Luxury Rented by: Birdman Licence Plate: ooo58
+SUV Rented by: Birdman Licence Plate: ppp962
+SUV Rented by: Reggie Licence Plate: qqq796
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Mini Van Rented by: Ben Licence Plate: uuu164
+Mini Van Rented by: Colin Licence Plate: vvv785
+Mini Van Rented by: Custard Licence Plate: www164
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+Economy Rented by: Fondlebirts Licence Plate: aaa965
+Economy Rented by: Cassie Licence Plate: bbb852
+Economy Rented by: Ronald Licence Plate: fff965
+Economy Rented by: Ronald Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+
+Avalaible Car Count: 3
+List of Cars:
+Economy, Licence Plates: eee852
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: rrr962
+
+Revenue for today: 925.0
+
+Day: 6
+
+Complete Rentals: 1
+Complete Rentals List
+Car: Economy, Radio, GPS Rented by: Oscar For: 2 days with Total price: 117.0
+
+Active Rentals Count: 19
+Active Rentals List
+Economy Rented by: Brenda Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: hhh258
+Standard Rented by: Brenda Licence Plate: iii963
+Standard Rented by: Rwonda Licence Plate: lll963
+Luxury Rented by: Rwonda Licence Plate: mmm258
+Luxury Rented by: Birdman Licence Plate: nnn369
+Luxury Rented by: Birdman Licence Plate: ooo58
+SUV Rented by: Birdman Licence Plate: ppp962
+SUV Rented by: Reggie Licence Plate: qqq796
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Mini Van Rented by: Ben Licence Plate: uuu164
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+Economy Rented by: Fondlebirts Licence Plate: aaa965
+Economy Rented by: Cassie Licence Plate: bbb852
+Economy Rented by: Ronald Licence Plate: fff965
+Economy Rented by: Ronald Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Economy Rented by: Oscar Licence Plate: eee852
+
+Avalaible Car Count: 5
+List of Cars:
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: jjj258
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: www164
+
+Revenue for today: 117.0
+
+Day: 7
+
+Complete Rentals: 1
+Complete Rentals List
+Car: Standard, Radio, GPS Rented by: Cassie For: 2 days with Total price: 159.5
+
+Active Rentals Count: 16
+Active Rentals List
+Economy Rented by: Brenda Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: hhh258
+Standard Rented by: Brenda Licence Plate: iii963
+Luxury Rented by: Birdman Licence Plate: nnn369
+Luxury Rented by: Birdman Licence Plate: ooo58
+SUV Rented by: Birdman Licence Plate: ppp962
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Mini Van Rented by: Ben Licence Plate: uuu164
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+Economy Rented by: Fondlebirts Licence Plate: aaa965
+Economy Rented by: Ronald Licence Plate: fff965
+Economy Rented by: Ronald Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Economy Rented by: Oscar Licence Plate: eee852
+Standard Rented by: Cassie Licence Plate: kkk963
+
+Avalaible Car Count: 8
+List of Cars:
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: jjj258
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: www164
+Standard, Licence Plates: lll963
+Luxury, Licence Plates: mmm258
+SUV, Licence Plates: qqq796
+Economy, Licence Plates: bbb852
+
+Revenue for today: 159.5
+
+Day: 8
+
+Complete Rentals: 4
+Complete Rentals List
+Car: SUV, GPS, Children Car Seat Rented by: Fondlebirts For: 2 days with Total price: 182.5
+Car: Standard, Radio, Children Car Seat, Children Car Seat Rented by: Rwonda For: 3 days with Total price: 229.5
+Car: Mini Van, Children Car Seat, Children Car Seat Rented by: Reggie For: 4 days with Total price: 315.0
+Car: Mini Van, GPS, Children Car Seat, Children Car Seat Rented by: Reggie For: 4 days with Total price: 325.0
+
+Active Rentals Count: 15
+Active Rentals List
+Luxury Rented by: Birdman Licence Plate: nnn369
+Luxury Rented by: Birdman Licence Plate: ooo58
+SUV Rented by: Birdman Licence Plate: ppp962
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Mini Van Rented by: Ben Licence Plate: uuu164
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+Economy Rented by: Ronald Licence Plate: fff965
+Economy Rented by: Ronald Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Standard Rented by: Cassie Licence Plate: kkk963
+SUV Rented by: Fondlebirts Licence Plate: rrr962
+Standard Rented by: Rwonda Licence Plate: jjj258
+Mini Van Rented by: Reggie Licence Plate: vvv785
+Mini Van Rented by: Reggie Licence Plate: www164
+
+Avalaible Car Count: 9
+List of Cars:
+Standard, Licence Plates: lll963
+Luxury, Licence Plates: mmm258
+SUV, Licence Plates: qqq796
+Economy, Licence Plates: bbb852
+Economy, Licence Plates: ggg852
+Standard, Licence Plates: hhh258
+Standard, Licence Plates: iii963
+Economy, Licence Plates: aaa965
+Economy, Licence Plates: eee852
+
+Revenue for today: 1052.0
+
+Day: 9
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Standard, GPS, Children Car Seat Rented by: Birdman For: 7 days with Total price: 507.5
+Car: Luxury, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 1070.0
+Car: SUV, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 589.5
+Car: Economy, GPS, Children Car Seat Rented by: Custard For: 1 days with Total price: 65.0
+Car: Economy Rented by: Oscar For: 3 days with Total price: 150.0
+Car: Standard, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Cassie For: 1 days with Total price: 87.5
+
+Active Rentals Count: 13
+Active Rentals List
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Mini Van Rented by: Ben Licence Plate: uuu164
+SUV Rented by: Fondlebirts Licence Plate: rrr962
+Standard Rented by: Rwonda Licence Plate: jjj258
+Mini Van Rented by: Reggie Licence Plate: vvv785
+Mini Van Rented by: Reggie Licence Plate: www164
+Standard Rented by: Birdman Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+SUV Rented by: Birdman Licence Plate: qqq796
+Economy Rented by: Custard Licence Plate: bbb852
+Economy Rented by: Oscar Licence Plate: ggg852
+Standard Rented by: Cassie Licence Plate: hhh258
+
+Avalaible Car Count: 11
+List of Cars:
+Standard, Licence Plates: iii963
+Economy, Licence Plates: aaa965
+Economy, Licence Plates: eee852
+Luxury, Licence Plates: nnn369
+Luxury, Licence Plates: ooo58
+SUV, Licence Plates: ppp962
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: fff965
+Economy, Licence Plates: ccc852
+Economy, Licence Plates: ddd965
+Standard, Licence Plates: kkk963
+
+Revenue for today: 2469.5
+
+Day: 10
+
+Complete Rentals: 9
+Complete Rentals List
+Car: Standard, Radio, GPS, Children Car Seat Rented by: Brenda For: 7 days with Total price: 514.5
+Car: Economy, GPS Rented by: Brenda For: 7 days with Total price: 360.0
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Brenda For: 7 days with Total price: 382.0
+Car: Luxury, Radio, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 1 days with Total price: 177.0
+Car: Luxury, Radio, GPS Rented by: Rwonda For: 4 days with Total price: 627.0
+Car: SUV, Children Car Seat Rented by: Reggie For: 5 days with Total price: 412.5
+Car: Mini Van, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 540.0
+Car: Economy, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 360.0
+Car: Economy, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 365.0
+
+Active Rentals Count: 16
+Active Rentals List
+Standard Rented by: Rwonda Licence Plate: jjj258
+Mini Van Rented by: Reggie Licence Plate: vvv785
+Mini Van Rented by: Reggie Licence Plate: www164
+Standard Rented by: Birdman Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+SUV Rented by: Birdman Licence Plate: qqq796
+Economy Rented by: Oscar Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Brenda Licence Plate: eee852
+Luxury Rented by: Fondlebirts Licence Plate: nnn369
+Luxury Rented by: Rwonda Licence Plate: ooo58
+SUV Rented by: Reggie Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: xxx785
+Economy Rented by: Ben Licence Plate: fff965
+Economy Rented by: Ben Licence Plate: ccc852
+
+Avalaible Car Count: 8
+List of Cars:
+Economy, Licence Plates: ddd965
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: sss796
+SUV, Licence Plates: ttt796
+Mini Van, Licence Plates: uuu164
+SUV, Licence Plates: rrr962
+Economy, Licence Plates: bbb852
+Standard, Licence Plates: hhh258
+
+Revenue for today: 3738.0
+
+Day: 11
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 167.0
+Car: Standard, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 232.5
+Car: SUV, GPS, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 267.5
+Car: SUV, Radio, Children Car Seat Rented by: Cassie For: 1 days with Total price: 99.5
+Car: Mini Van, GPS, Children Car Seat, Children Car Seat Rented by: Custard For: 2 days with Total price: 175.0
+
+Active Rentals Count: 19
+Active Rentals List
+Mini Van Rented by: Reggie Licence Plate: vvv785
+Mini Van Rented by: Reggie Licence Plate: www164
+Standard Rented by: Birdman Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+SUV Rented by: Birdman Licence Plate: qqq796
+Economy Rented by: Oscar Licence Plate: ggg852
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Brenda Licence Plate: eee852
+Luxury Rented by: Rwonda Licence Plate: ooo58
+SUV Rented by: Reggie Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: xxx785
+Economy Rented by: Ben Licence Plate: fff965
+Economy Rented by: Ben Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Standard Rented by: Ronald Licence Plate: kkk963
+SUV Rented by: Ronald Licence Plate: sss796
+SUV Rented by: Cassie Licence Plate: ttt796
+Mini Van Rented by: Custard Licence Plate: uuu164
+
+Avalaible Car Count: 5
+List of Cars:
+SUV, Licence Plates: rrr962
+Economy, Licence Plates: bbb852
+Standard, Licence Plates: hhh258
+Standard, Licence Plates: jjj258
+Luxury, Licence Plates: nnn369
+
+Revenue for today: 941.5
+
+Day: 12
+
+Complete Rentals: 3
+Complete Rentals List
+Car: SUV, GPS Rented by: Oscar For: 3 days with Total price: 257.5
+Car: Economy, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 2 days with Total price: 125.0
+Car: Standard, GPS, Children Car Seat Rented by: Colin For: 3 days with Total price: 227.5
+
+Active Rentals Count: 18
+Active Rentals List
+Standard Rented by: Birdman Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+SUV Rented by: Birdman Licence Plate: qqq796
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Brenda Licence Plate: eee852
+Luxury Rented by: Rwonda Licence Plate: ooo58
+SUV Rented by: Reggie Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: xxx785
+Economy Rented by: Ben Licence Plate: fff965
+Economy Rented by: Ben Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Standard Rented by: Ronald Licence Plate: kkk963
+SUV Rented by: Ronald Licence Plate: sss796
+Mini Van Rented by: Custard Licence Plate: uuu164
+SUV Rented by: Oscar Licence Plate: rrr962
+Economy Rented by: Fondlebirts Licence Plate: bbb852
+Standard Rented by: Colin Licence Plate: hhh258
+
+Avalaible Car Count: 6
+List of Cars:
+Standard, Licence Plates: jjj258
+Luxury, Licence Plates: nnn369
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: www164
+Economy, Licence Plates: ggg852
+SUV, Licence Plates: ttt796
+
+Revenue for today: 610.0
+
+Day: 13
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Standard, Children Car Seat Rented by: Custard For: 1 days with Total price: 77.5
+Car: Luxury, Children Car Seat Rented by: Cassie For: 3 days with Total price: 465.0
+
+Active Rentals Count: 19
+Active Rentals List
+Standard Rented by: Birdman Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+SUV Rented by: Birdman Licence Plate: qqq796
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Brenda Licence Plate: eee852
+Luxury Rented by: Rwonda Licence Plate: ooo58
+SUV Rented by: Reggie Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: xxx785
+Economy Rented by: Ben Licence Plate: fff965
+Economy Rented by: Ben Licence Plate: ccc852
+Economy Rented by: Ronald Licence Plate: ddd965
+Standard Rented by: Ronald Licence Plate: kkk963
+SUV Rented by: Ronald Licence Plate: sss796
+SUV Rented by: Oscar Licence Plate: rrr962
+Economy Rented by: Fondlebirts Licence Plate: bbb852
+Standard Rented by: Colin Licence Plate: hhh258
+Standard Rented by: Custard Licence Plate: jjj258
+Luxury Rented by: Cassie Licence Plate: nnn369
+
+Avalaible Car Count: 5
+List of Cars:
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: www164
+Economy, Licence Plates: ggg852
+SUV, Licence Plates: ttt796
+Mini Van, Licence Plates: uuu164
+
+Revenue for today: 542.5
+
+Day: 14
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Mini Van, GPS, Children Car Seat Rented by: Fondlebirts For: 2 days with Total price: 170.0
+Car: Mini Van, GPS Rented by: Rwonda For: 5 days with Total price: 390.0
+Car: Economy, GPS, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 270.0
+Car: SUV, Radio, Children Car Seat Rented by: Eddie For: 3 days with Total price: 259.5
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Custard For: 2 days with Total price: 182.0
+
+Active Rentals Count: 18
+Active Rentals List
+Standard Rented by: Birdman Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+SUV Rented by: Birdman Licence Plate: qqq796
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Brenda Licence Plate: eee852
+SUV Rented by: Reggie Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: xxx785
+Economy Rented by: Ben Licence Plate: fff965
+Economy Rented by: Ben Licence Plate: ccc852
+SUV Rented by: Oscar Licence Plate: rrr962
+Standard Rented by: Colin Licence Plate: hhh258
+Luxury Rented by: Cassie Licence Plate: nnn369
+Mini Van Rented by: Fondlebirts Licence Plate: vvv785
+Mini Van Rented by: Rwonda Licence Plate: www164
+Economy Rented by: Rwonda Licence Plate: ggg852
+SUV Rented by: Eddie Licence Plate: ttt796
+Mini Van Rented by: Custard Licence Plate: uuu164
+
+Avalaible Car Count: 6
+List of Cars:
+Luxury, Licence Plates: ooo58
+Economy, Licence Plates: ddd965
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: sss796
+Economy, Licence Plates: bbb852
+Standard, Licence Plates: jjj258
+
+Revenue for today: 1271.5
+
+Day: 15
+
+Complete Rentals: 1
+Complete Rentals List
+Car: Luxury, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Oscar For: 1 days with Total price: 187.0
+
+Active Rentals Count: 16
+Active Rentals List
+Standard Rented by: Birdman Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+SUV Rented by: Birdman Licence Plate: qqq796
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Brenda Licence Plate: eee852
+Mini Van Rented by: Ben Licence Plate: xxx785
+Economy Rented by: Ben Licence Plate: fff965
+Economy Rented by: Ben Licence Plate: ccc852
+Luxury Rented by: Cassie Licence Plate: nnn369
+Mini Van Rented by: Fondlebirts Licence Plate: vvv785
+Mini Van Rented by: Rwonda Licence Plate: www164
+Economy Rented by: Rwonda Licence Plate: ggg852
+SUV Rented by: Eddie Licence Plate: ttt796
+Mini Van Rented by: Custard Licence Plate: uuu164
+Luxury Rented by: Oscar Licence Plate: ooo58
+
+Avalaible Car Count: 8
+List of Cars:
+Economy, Licence Plates: ddd965
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: sss796
+Economy, Licence Plates: bbb852
+Standard, Licence Plates: jjj258
+SUV, Licence Plates: ppp962
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: hhh258
+
+Revenue for today: 187.0
+
+Day: 16
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Economy, Children Car Seat Rented by: Rwonda For: 3 days with Total price: 155.0
+Car: Standard, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 237.5
+Car: SUV, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 577.5
+Car: Economy, Radio, GPS, Children Car Seat Rented by: Birdman For: 7 days with Total price: 372.0
+Car: Standard, Radio, GPS, Children Car Seat Rented by: Birdman For: 7 days with Total price: 514.5
+Car: SUV, Children Car Seat Rented by: Oscar For: 1 days with Total price: 92.5
+
+Active Rentals Count: 15
+Active Rentals List
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Brenda Licence Plate: eee852
+Mini Van Rented by: Ben Licence Plate: xxx785
+Economy Rented by: Ben Licence Plate: fff965
+Economy Rented by: Ben Licence Plate: ccc852
+Mini Van Rented by: Rwonda Licence Plate: www164
+Economy Rented by: Rwonda Licence Plate: ggg852
+SUV Rented by: Eddie Licence Plate: ttt796
+Economy Rented by: Rwonda Licence Plate: ddd965
+Standard Rented by: Ronald Licence Plate: kkk963
+SUV Rented by: Birdman Licence Plate: sss796
+Economy Rented by: Birdman Licence Plate: bbb852
+Standard Rented by: Birdman Licence Plate: jjj258
+SUV Rented by: Oscar Licence Plate: ppp962
+
+Avalaible Car Count: 9
+List of Cars:
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: hhh258
+Standard, Licence Plates: lll963
+Luxury, Licence Plates: mmm258
+SUV, Licence Plates: qqq796
+Luxury, Licence Plates: nnn369
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: uuu164
+Luxury, Licence Plates: ooo58
+
+Revenue for today: 1949.0
+
+Day: 17
+
+Complete Rentals: 4
+Complete Rentals List
+Car: SUV, Radio, Children Car Seat Rented by: Custard For: 2 days with Total price: 179.5
+Car: Standard, GPS, Children Car Seat Rented by: Oscar For: 2 days with Total price: 157.5
+Car: Standard, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 2 days with Total price: 174.5
+Car: Luxury, Radio, Children Car Seat Rented by: Colin For: 2 days with Total price: 322.0
+
+Active Rentals Count: 11
+Active Rentals List
+Mini Van Rented by: Rwonda Licence Plate: www164
+Economy Rented by: Rwonda Licence Plate: ggg852
+Economy Rented by: Rwonda Licence Plate: ddd965
+Standard Rented by: Ronald Licence Plate: kkk963
+SUV Rented by: Birdman Licence Plate: sss796
+Economy Rented by: Birdman Licence Plate: bbb852
+Standard Rented by: Birdman Licence Plate: jjj258
+SUV Rented by: Custard Licence Plate: rrr962
+Standard Rented by: Oscar Licence Plate: hhh258
+Standard Rented by: Fondlebirts Licence Plate: lll963
+Luxury Rented by: Colin Licence Plate: mmm258
+
+Avalaible Car Count: 13
+List of Cars:
+SUV, Licence Plates: qqq796
+Luxury, Licence Plates: nnn369
+Mini Van, Licence Plates: vvv785
+Mini Van, Licence Plates: uuu164
+Luxury, Licence Plates: ooo58
+Standard, Licence Plates: iii963
+Economy, Licence Plates: aaa965
+Economy, Licence Plates: eee852
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: fff965
+Economy, Licence Plates: ccc852
+SUV, Licence Plates: ttt796
+SUV, Licence Plates: ppp962
+
+Revenue for today: 833.5
+
+Day: 18
+
+Complete Rentals: 4
+Complete Rentals List
+Car: SUV, GPS, Children Car Seat Rented by: Reggie For: 3 days with Total price: 262.5
+Car: Luxury, Radio, Children Car Seat Rented by: Reggie For: 3 days with Total price: 472.0
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Eddie For: 1 days with Total price: 107.0
+Car: Mini Van, Radio Rented by: Cassie For: 3 days with Total price: 237.0
+
+Active Rentals Count: 15
+Active Rentals List
+Mini Van Rented by: Rwonda Licence Plate: www164
+Economy Rented by: Rwonda Licence Plate: ggg852
+Economy Rented by: Rwonda Licence Plate: ddd965
+Standard Rented by: Ronald Licence Plate: kkk963
+SUV Rented by: Birdman Licence Plate: sss796
+Economy Rented by: Birdman Licence Plate: bbb852
+Standard Rented by: Birdman Licence Plate: jjj258
+SUV Rented by: Custard Licence Plate: rrr962
+Standard Rented by: Oscar Licence Plate: hhh258
+Standard Rented by: Fondlebirts Licence Plate: lll963
+Luxury Rented by: Colin Licence Plate: mmm258
+SUV Rented by: Reggie Licence Plate: qqq796
+Luxury Rented by: Reggie Licence Plate: nnn369
+Mini Van Rented by: Eddie Licence Plate: vvv785
+Mini Van Rented by: Cassie Licence Plate: uuu164
+
+Avalaible Car Count: 9
+List of Cars:
+Luxury, Licence Plates: ooo58
+Standard, Licence Plates: iii963
+Economy, Licence Plates: aaa965
+Economy, Licence Plates: eee852
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: fff965
+Economy, Licence Plates: ccc852
+SUV, Licence Plates: ttt796
+SUV, Licence Plates: ppp962
+
+Revenue for today: 1078.5
+
+Day: 19
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Luxury Rented by: Brenda For: 7 days with Total price: 1060.0
+Car: Standard, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Brenda For: 7 days with Total price: 514.5
+Car: Economy, GPS Rented by: Brenda For: 7 days with Total price: 360.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Eddie For: 2 days with Total price: 122.0
+Car: Mini Van, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Colin For: 3 days with Total price: 257.0
+Car: Economy, Radio Rented by: Fondlebirts For: 1 days with Total price: 57.0
+
+Active Rentals Count: 12
+Active Rentals List
+SUV Rented by: Birdman Licence Plate: sss796
+Economy Rented by: Birdman Licence Plate: bbb852
+Standard Rented by: Birdman Licence Plate: jjj258
+SUV Rented by: Reggie Licence Plate: qqq796
+Luxury Rented by: Reggie Licence Plate: nnn369
+Mini Van Rented by: Cassie Licence Plate: uuu164
+Luxury Rented by: Brenda Licence Plate: ooo58
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Eddie Licence Plate: eee852
+Mini Van Rented by: Colin Licence Plate: xxx785
+Economy Rented by: Fondlebirts Licence Plate: fff965
+
+Avalaible Car Count: 12
+List of Cars:
+Economy, Licence Plates: ccc852
+SUV, Licence Plates: ttt796
+SUV, Licence Plates: ppp962
+Mini Van, Licence Plates: www164
+Economy, Licence Plates: ggg852
+Economy, Licence Plates: ddd965
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: hhh258
+Standard, Licence Plates: lll963
+Luxury, Licence Plates: mmm258
+Mini Van, Licence Plates: vvv785
+
+Revenue for today: 2370.5
+
+Day: 20
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 267.0
+Car: SUV, Radio, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 1 days with Total price: 104.5
+Car: SUV, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 582.5
+Car: Mini Van, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 545.0
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 367.0
+
+Active Rentals Count: 16
+Active Rentals List
+SUV Rented by: Birdman Licence Plate: sss796
+Economy Rented by: Birdman Licence Plate: bbb852
+Standard Rented by: Birdman Licence Plate: jjj258
+SUV Rented by: Reggie Licence Plate: qqq796
+Luxury Rented by: Reggie Licence Plate: nnn369
+Mini Van Rented by: Cassie Licence Plate: uuu164
+Luxury Rented by: Brenda Licence Plate: ooo58
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Eddie Licence Plate: eee852
+Mini Van Rented by: Colin Licence Plate: xxx785
+Economy Rented by: Reggie Licence Plate: ccc852
+SUV Rented by: Fondlebirts Licence Plate: ttt796
+SUV Rented by: Ben Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: www164
+Economy Rented by: Ben Licence Plate: ggg852
+
+Avalaible Car Count: 8
+List of Cars:
+Economy, Licence Plates: ddd965
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: hhh258
+Standard, Licence Plates: lll963
+Luxury, Licence Plates: mmm258
+Mini Van, Licence Plates: vvv785
+Economy, Licence Plates: fff965
+
+Revenue for today: 1866.0
+
+Day: 21
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Economy, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 1 days with Total price: 75.0
+Car: Standard Rented by: Cassie For: 3 days with Total price: 212.5
+
+Active Rentals Count: 13
+Active Rentals List
+SUV Rented by: Birdman Licence Plate: sss796
+Economy Rented by: Birdman Licence Plate: bbb852
+Standard Rented by: Birdman Licence Plate: jjj258
+Luxury Rented by: Brenda Licence Plate: ooo58
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Mini Van Rented by: Colin Licence Plate: xxx785
+Economy Rented by: Reggie Licence Plate: ccc852
+SUV Rented by: Ben Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: www164
+Economy Rented by: Ben Licence Plate: ggg852
+Economy Rented by: Fondlebirts Licence Plate: ddd965
+Standard Rented by: Cassie Licence Plate: kkk963
+
+Avalaible Car Count: 11
+List of Cars:
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: hhh258
+Standard, Licence Plates: lll963
+Luxury, Licence Plates: mmm258
+Mini Van, Licence Plates: vvv785
+Economy, Licence Plates: fff965
+SUV, Licence Plates: qqq796
+Luxury, Licence Plates: nnn369
+Mini Van, Licence Plates: uuu164
+Economy, Licence Plates: eee852
+SUV, Licence Plates: ttt796
+
+Revenue for today: 287.5
+
+Day: 22
+
+Complete Rentals: 3
+Complete Rentals List
+Car: SUV, Radio, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 259.5
+Car: Standard, Radio, GPS, Children Car Seat Rented by: Custard For: 2 days with Total price: 164.5
+Car: Standard, Radio, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ronald For: 3 days with Total price: 234.5
+
+Active Rentals Count: 14
+Active Rentals List
+SUV Rented by: Birdman Licence Plate: sss796
+Economy Rented by: Birdman Licence Plate: bbb852
+Standard Rented by: Birdman Licence Plate: jjj258
+Luxury Rented by: Brenda Licence Plate: ooo58
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Reggie Licence Plate: ccc852
+SUV Rented by: Ben Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: www164
+Economy Rented by: Ben Licence Plate: ggg852
+Standard Rented by: Cassie Licence Plate: kkk963
+SUV Rented by: Fondlebirts Licence Plate: rrr962
+Standard Rented by: Custard Licence Plate: hhh258
+Standard Rented by: Ronald Licence Plate: lll963
+
+Avalaible Car Count: 10
+List of Cars:
+Luxury, Licence Plates: mmm258
+Mini Van, Licence Plates: vvv785
+Economy, Licence Plates: fff965
+SUV, Licence Plates: qqq796
+Luxury, Licence Plates: nnn369
+Mini Van, Licence Plates: uuu164
+Economy, Licence Plates: eee852
+SUV, Licence Plates: ttt796
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: ddd965
+
+Revenue for today: 658.5
+
+Day: 23
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Luxury, GPS Rented by: Birdman For: 7 days with Total price: 1070.0
+Car: Mini Van, Radio Rented by: Birdman For: 7 days with Total price: 537.0
+Car: Economy Rented by: Birdman For: 7 days with Total price: 350.0
+Car: SUV, Children Car Seat Rented by: Colin For: 2 days with Total price: 172.5
+Car: Luxury, GPS, Children Car Seat Rented by: Oscar For: 1 days with Total price: 175.0
+
+Active Rentals Count: 16
+Active Rentals List
+Luxury Rented by: Brenda Licence Plate: ooo58
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Reggie Licence Plate: ccc852
+SUV Rented by: Ben Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: www164
+Economy Rented by: Ben Licence Plate: ggg852
+Standard Rented by: Cassie Licence Plate: kkk963
+SUV Rented by: Fondlebirts Licence Plate: rrr962
+Standard Rented by: Custard Licence Plate: hhh258
+Standard Rented by: Ronald Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+SUV Rented by: Colin Licence Plate: qqq796
+Luxury Rented by: Oscar Licence Plate: nnn369
+
+Avalaible Car Count: 8
+List of Cars:
+Mini Van, Licence Plates: uuu164
+Economy, Licence Plates: eee852
+SUV, Licence Plates: ttt796
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: ddd965
+SUV, Licence Plates: sss796
+Economy, Licence Plates: bbb852
+Standard, Licence Plates: jjj258
+
+Revenue for today: 2304.5
+
+Day: 24
+
+Complete Rentals: 4
+Complete Rentals List
+Car: Mini Van, Radio, Children Car Seat Rented by: Oscar For: 3 days with Total price: 242.0
+Car: Economy, GPS, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 270.0
+Car: SUV, GPS, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 427.5
+Car: Mini Van, GPS, Children Car Seat Rented by: Eddie For: 2 days with Total price: 170.0
+
+Active Rentals Count: 17
+Active Rentals List
+Luxury Rented by: Brenda Licence Plate: ooo58
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Economy Rented by: Reggie Licence Plate: ccc852
+SUV Rented by: Ben Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: www164
+Economy Rented by: Ben Licence Plate: ggg852
+SUV Rented by: Fondlebirts Licence Plate: rrr962
+Standard Rented by: Ronald Licence Plate: lll963
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+SUV Rented by: Colin Licence Plate: qqq796
+Mini Van Rented by: Oscar Licence Plate: uuu164
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Reggie Licence Plate: ttt796
+Mini Van Rented by: Eddie Licence Plate: xxx785
+
+Avalaible Car Count: 7
+List of Cars:
+Economy, Licence Plates: ddd965
+SUV, Licence Plates: sss796
+Economy, Licence Plates: bbb852
+Standard, Licence Plates: jjj258
+Standard, Licence Plates: kkk963
+Standard, Licence Plates: hhh258
+Luxury, Licence Plates: nnn369
+
+Revenue for today: 1109.5
+
+Day: 25
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Economy, GPS, Children Car Seat, Children Car Seat Rented by: Colin For: 1 days with Total price: 70.0
+Car: SUV, Radio, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 259.5
+
+Active Rentals Count: 15
+Active Rentals List
+Luxury Rented by: Brenda Licence Plate: ooo58
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+SUV Rented by: Ben Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: www164
+Economy Rented by: Ben Licence Plate: ggg852
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Mini Van Rented by: Oscar Licence Plate: uuu164
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Reggie Licence Plate: ttt796
+Mini Van Rented by: Eddie Licence Plate: xxx785
+Economy Rented by: Colin Licence Plate: ddd965
+SUV Rented by: Fondlebirts Licence Plate: sss796
+
+Avalaible Car Count: 9
+List of Cars:
+Economy, Licence Plates: bbb852
+Standard, Licence Plates: jjj258
+Standard, Licence Plates: kkk963
+Standard, Licence Plates: hhh258
+Luxury, Licence Plates: nnn369
+Economy, Licence Plates: ccc852
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: lll963
+SUV, Licence Plates: qqq796
+
+Revenue for today: 329.5
+
+Day: 26
+
+Complete Rentals: 7
+Complete Rentals List
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Reggie For: 3 days with Total price: 167.0
+Car: Standard, GPS Rented by: Cassie For: 2 days with Total price: 152.5
+Car: Standard, Radio Rented by: Custard For: 1 days with Total price: 79.5
+Car: Standard, Radio Rented by: Eddie For: 1 days with Total price: 79.5
+Car: Luxury, Radio, Children Car Seat, Children Car Seat Rented by: Brenda For: 7 days with Total price: 1077.0
+Car: Economy, GPS Rented by: Brenda For: 7 days with Total price: 360.0
+Car: SUV, Children Car Seat Rented by: Brenda For: 7 days with Total price: 572.5
+
+Active Rentals Count: 17
+Active Rentals List
+SUV Rented by: Ben Licence Plate: ppp962
+Mini Van Rented by: Ben Licence Plate: www164
+Economy Rented by: Ben Licence Plate: ggg852
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Mini Van Rented by: Oscar Licence Plate: uuu164
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Reggie Licence Plate: ttt796
+SUV Rented by: Fondlebirts Licence Plate: sss796
+Economy Rented by: Reggie Licence Plate: bbb852
+Standard Rented by: Cassie Licence Plate: jjj258
+Standard Rented by: Custard Licence Plate: kkk963
+Standard Rented by: Eddie Licence Plate: hhh258
+Luxury Rented by: Brenda Licence Plate: nnn369
+Economy Rented by: Brenda Licence Plate: ccc852
+SUV Rented by: Brenda Licence Plate: rrr962
+
+Avalaible Car Count: 7
+List of Cars:
+Standard, Licence Plates: lll963
+SUV, Licence Plates: qqq796
+Luxury, Licence Plates: ooo58
+Standard, Licence Plates: iii963
+Economy, Licence Plates: aaa965
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: ddd965
+
+Revenue for today: 2488.0
+
+Day: 27
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Standard, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 507.5
+Car: SUV, GPS, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 587.5
+Car: Luxury, Radio, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Ben For: 7 days with Total price: 1092.0
+Car: Standard, Radio, GPS Rented by: Ronald For: 5 days with Total price: 369.5
+Car: Economy, Radio, GPS, Children Car Seat Rented by: Ronald For: 5 days with Total price: 272.0
+
+Active Rentals Count: 16
+Active Rentals List
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Reggie Licence Plate: ttt796
+SUV Rented by: Fondlebirts Licence Plate: sss796
+Economy Rented by: Reggie Licence Plate: bbb852
+Standard Rented by: Cassie Licence Plate: jjj258
+Luxury Rented by: Brenda Licence Plate: nnn369
+Economy Rented by: Brenda Licence Plate: ccc852
+SUV Rented by: Brenda Licence Plate: rrr962
+Standard Rented by: Ben Licence Plate: lll963
+SUV Rented by: Ben Licence Plate: qqq796
+Luxury Rented by: Ben Licence Plate: ooo58
+Standard Rented by: Ronald Licence Plate: iii963
+Economy Rented by: Ronald Licence Plate: aaa965
+
+Avalaible Car Count: 8
+List of Cars:
+Mini Van, Licence Plates: xxx785
+Economy, Licence Plates: ddd965
+SUV, Licence Plates: ppp962
+Mini Van, Licence Plates: www164
+Economy, Licence Plates: ggg852
+Mini Van, Licence Plates: uuu164
+Standard, Licence Plates: kkk963
+Standard, Licence Plates: hhh258
+
+Revenue for today: 2828.5
+
+Day: 28
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Mini Van, Children Car Seat Rented by: Eddie For: 3 days with Total price: 235.0
+Car: Economy, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 2 days with Total price: 127.0
+Car: SUV, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Custard For: 1 days with Total price: 114.5
+
+Active Rentals Count: 17
+Active Rentals List
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Reggie Licence Plate: ttt796
+Economy Rented by: Reggie Licence Plate: bbb852
+Luxury Rented by: Brenda Licence Plate: nnn369
+Economy Rented by: Brenda Licence Plate: ccc852
+SUV Rented by: Brenda Licence Plate: rrr962
+Standard Rented by: Ben Licence Plate: lll963
+SUV Rented by: Ben Licence Plate: qqq796
+Luxury Rented by: Ben Licence Plate: ooo58
+Standard Rented by: Ronald Licence Plate: iii963
+Economy Rented by: Ronald Licence Plate: aaa965
+Mini Van Rented by: Eddie Licence Plate: xxx785
+Economy Rented by: Fondlebirts Licence Plate: ddd965
+SUV Rented by: Custard Licence Plate: ppp962
+
+Avalaible Car Count: 7
+List of Cars:
+Mini Van, Licence Plates: www164
+Economy, Licence Plates: ggg852
+Mini Van, Licence Plates: uuu164
+Standard, Licence Plates: kkk963
+Standard, Licence Plates: hhh258
+SUV, Licence Plates: sss796
+Standard, Licence Plates: jjj258
+
+Revenue for today: 476.5
+
+Day: 29
+
+Complete Rentals: 3
+Complete Rentals List
+Car: Mini Van, Children Car Seat, Children Car Seat Rented by: Colin For: 1 days with Total price: 90.0
+Car: Economy, GPS Rented by: Rwonda For: 5 days with Total price: 260.0
+Car: Mini Van, GPS, Children Car Seat, Children Car Seat Rented by: Oscar For: 3 days with Total price: 250.0
+
+Active Rentals Count: 16
+Active Rentals List
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Luxury Rented by: Brenda Licence Plate: nnn369
+Economy Rented by: Brenda Licence Plate: ccc852
+SUV Rented by: Brenda Licence Plate: rrr962
+Standard Rented by: Ben Licence Plate: lll963
+SUV Rented by: Ben Licence Plate: qqq796
+Luxury Rented by: Ben Licence Plate: ooo58
+Standard Rented by: Ronald Licence Plate: iii963
+Economy Rented by: Ronald Licence Plate: aaa965
+Mini Van Rented by: Eddie Licence Plate: xxx785
+Economy Rented by: Fondlebirts Licence Plate: ddd965
+Mini Van Rented by: Colin Licence Plate: www164
+Economy Rented by: Rwonda Licence Plate: ggg852
+Mini Van Rented by: Oscar Licence Plate: uuu164
+
+Avalaible Car Count: 8
+List of Cars:
+Standard, Licence Plates: kkk963
+Standard, Licence Plates: hhh258
+SUV, Licence Plates: sss796
+Standard, Licence Plates: jjj258
+Economy, Licence Plates: eee852
+SUV, Licence Plates: ttt796
+Economy, Licence Plates: bbb852
+SUV, Licence Plates: ppp962
+
+Revenue for today: 600.0
+
+Day: 30
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Standard, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Custard For: 3 days with Total price: 227.5
+Car: Standard, Children Car Seat, Children Car Seat Rented by: Ronald For: 4 days with Total price: 292.5
+Car: SUV, Children Car Seat, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Colin For: 3 days with Total price: 267.5
+Car: Standard, Radio, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 369.5
+Car: Economy, Radio, Children Car Seat, Children Car Seat Rented by: Reggie For: 5 days with Total price: 267.0
+Car: SUV, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Cassie For: 3 days with Total price: 274.5
+
+Active Rentals Count: 17
+Active Rentals List
+Luxury Rented by: Brenda Licence Plate: nnn369
+Economy Rented by: Brenda Licence Plate: ccc852
+SUV Rented by: Brenda Licence Plate: rrr962
+Standard Rented by: Ben Licence Plate: lll963
+SUV Rented by: Ben Licence Plate: qqq796
+Luxury Rented by: Ben Licence Plate: ooo58
+Standard Rented by: Ronald Licence Plate: iii963
+Economy Rented by: Ronald Licence Plate: aaa965
+Mini Van Rented by: Eddie Licence Plate: xxx785
+Economy Rented by: Rwonda Licence Plate: ggg852
+Mini Van Rented by: Oscar Licence Plate: uuu164
+Standard Rented by: Custard Licence Plate: kkk963
+Standard Rented by: Ronald Licence Plate: hhh258
+SUV Rented by: Colin Licence Plate: sss796
+Standard Rented by: Reggie Licence Plate: jjj258
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Cassie Licence Plate: ttt796
+
+Avalaible Car Count: 7
+List of Cars:
+Economy, Licence Plates: bbb852
+SUV, Licence Plates: ppp962
+Luxury, Licence Plates: mmm258
+Mini Van, Licence Plates: vvv785
+Economy, Licence Plates: fff965
+Economy, Licence Plates: ddd965
+Mini Van, Licence Plates: www164
+
+Revenue for today: 1698.5
+
+Day: 31
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Economy, Children Car Seat, Children Car Seat Rented by: Eddie For: 3 days with Total price: 160.0
+Car: SUV, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 3 days with Total price: 272.5
+Car: Luxury, Radio, GPS, Children Car Seat Rented by: Birdman For: 7 days with Total price: 1082.0
+Car: Mini Van, GPS, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 550.0
+Car: Economy, GPS, Children Car Seat, Children Car Seat Rented by: Birdman For: 7 days with Total price: 370.0
+
+Active Rentals Count: 21
+Active Rentals List
+Luxury Rented by: Brenda Licence Plate: nnn369
+Economy Rented by: Brenda Licence Plate: ccc852
+SUV Rented by: Brenda Licence Plate: rrr962
+Standard Rented by: Ben Licence Plate: lll963
+SUV Rented by: Ben Licence Plate: qqq796
+Luxury Rented by: Ben Licence Plate: ooo58
+Standard Rented by: Ronald Licence Plate: iii963
+Economy Rented by: Ronald Licence Plate: aaa965
+Economy Rented by: Rwonda Licence Plate: ggg852
+Mini Van Rented by: Oscar Licence Plate: uuu164
+Standard Rented by: Custard Licence Plate: kkk963
+Standard Rented by: Ronald Licence Plate: hhh258
+SUV Rented by: Colin Licence Plate: sss796
+Standard Rented by: Reggie Licence Plate: jjj258
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Cassie Licence Plate: ttt796
+Economy Rented by: Eddie Licence Plate: bbb852
+SUV Rented by: Rwonda Licence Plate: ppp962
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+
+Avalaible Car Count: 3
+List of Cars:
+Economy, Licence Plates: ddd965
+Mini Van, Licence Plates: www164
+Mini Van, Licence Plates: xxx785
+
+Revenue for today: 2434.5
+
+Day: 32
+
+Complete Rentals: 2
+Complete Rentals List
+Car: Economy, GPS, Children Car Seat Rented by: Reggie For: 4 days with Total price: 215.0
+Car: Mini Van, Radio Rented by: Fondlebirts For: 3 days with Total price: 237.0
+
+Active Rentals Count: 20
+Active Rentals List
+Luxury Rented by: Brenda Licence Plate: nnn369
+Economy Rented by: Brenda Licence Plate: ccc852
+SUV Rented by: Brenda Licence Plate: rrr962
+Standard Rented by: Ben Licence Plate: lll963
+SUV Rented by: Ben Licence Plate: qqq796
+Luxury Rented by: Ben Licence Plate: ooo58
+Economy Rented by: Rwonda Licence Plate: ggg852
+Standard Rented by: Custard Licence Plate: kkk963
+Standard Rented by: Ronald Licence Plate: hhh258
+SUV Rented by: Colin Licence Plate: sss796
+Standard Rented by: Reggie Licence Plate: jjj258
+Economy Rented by: Reggie Licence Plate: eee852
+SUV Rented by: Cassie Licence Plate: ttt796
+Economy Rented by: Eddie Licence Plate: bbb852
+SUV Rented by: Rwonda Licence Plate: ppp962
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Economy Rented by: Reggie Licence Plate: ddd965
+Mini Van Rented by: Fondlebirts Licence Plate: www164
+
+Avalaible Car Count: 4
+List of Cars:
+Mini Van, Licence Plates: xxx785
+Standard, Licence Plates: iii963
+Economy, Licence Plates: aaa965
+Mini Van, Licence Plates: uuu164
+
+Revenue for today: 452.0
+
+Day: 33
+
+Complete Rentals: 5
+Complete Rentals List
+Car: Mini Van, GPS, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Rwonda For: 5 days with Total price: 405.0
+Car: Standard Rented by: Brenda For: 7 days with Total price: 492.5
+Car: Economy, GPS, Children Car Seat Rented by: Brenda For: 7 days with Total price: 365.0
+Car: Mini Van, Radio, GPS Rented by: Brenda For: 7 days with Total price: 547.0
+Car: Luxury, Children Car Seat, Children Car Seat, Children Car Seat Rented by: Colin For: 3 days with Total price: 475.0
+
+Active Rentals Count: 19
+Active Rentals List
+Standard Rented by: Ben Licence Plate: lll963
+SUV Rented by: Ben Licence Plate: qqq796
+Luxury Rented by: Ben Licence Plate: ooo58
+Economy Rented by: Rwonda Licence Plate: ggg852
+Standard Rented by: Ronald Licence Plate: hhh258
+Standard Rented by: Reggie Licence Plate: jjj258
+Economy Rented by: Reggie Licence Plate: eee852
+Economy Rented by: Eddie Licence Plate: bbb852
+SUV Rented by: Rwonda Licence Plate: ppp962
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Economy Rented by: Reggie Licence Plate: ddd965
+Mini Van Rented by: Fondlebirts Licence Plate: www164
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Mini Van Rented by: Brenda Licence Plate: uuu164
+Luxury Rented by: Colin Licence Plate: nnn369
+
+Avalaible Car Count: 5
+List of Cars:
+Economy, Licence Plates: ccc852
+SUV, Licence Plates: rrr962
+Standard, Licence Plates: kkk963
+SUV, Licence Plates: sss796
+SUV, Licence Plates: ttt796
+
+Revenue for today: 2284.5
+
+Day: 34
+
+Complete Rentals: 6
+Complete Rentals List
+Car: Economy, Radio, GPS, Children Car Seat Rented by: Cassie For: 3 days with Total price: 172.0
+Car: SUV, GPS, Children Car Seat Rented by: Eddie For: 1 days with Total price: 102.5
+Car: Standard, Radio, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 514.5
+Car: SUV, Radio, GPS, Children Car Seat Rented by: Ben For: 7 days with Total price: 589.5
+Car: SUV, Radio, Children Car Seat Rented by: Ben For: 7 days with Total price: 579.5
+Car: Standard, Radio Rented by: Custard For: 2 days with Total price: 149.5
+
+Active Rentals Count: 18
+Active Rentals List
+Standard Rented by: Reggie Licence Plate: jjj258
+Economy Rented by: Reggie Licence Plate: eee852
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Economy Rented by: Reggie Licence Plate: ddd965
+Mini Van Rented by: Fondlebirts Licence Plate: www164
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Mini Van Rented by: Brenda Licence Plate: uuu164
+Luxury Rented by: Colin Licence Plate: nnn369
+Economy Rented by: Cassie Licence Plate: ccc852
+SUV Rented by: Eddie Licence Plate: rrr962
+Standard Rented by: Ben Licence Plate: kkk963
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Standard Rented by: Custard Licence Plate: lll963
+
+Avalaible Car Count: 6
+List of Cars:
+SUV, Licence Plates: qqq796
+Luxury, Licence Plates: ooo58
+Economy, Licence Plates: ggg852
+Standard, Licence Plates: hhh258
+Economy, Licence Plates: bbb852
+SUV, Licence Plates: ppp962
+
+Revenue for today: 2107.5
+
+Day: 35
+
+Complete Rentals: 1
+Complete Rentals List
+Car: SUV, Radio, GPS, Children Car Seat, Children Car Seat Rented by: Fondlebirts For: 3 days with Total price: 274.5
+
+Active Rentals Count: 15
+Active Rentals List
+Luxury Rented by: Birdman Licence Plate: mmm258
+Mini Van Rented by: Birdman Licence Plate: vvv785
+Economy Rented by: Birdman Licence Plate: fff965
+Economy Rented by: Reggie Licence Plate: ddd965
+Mini Van Rented by: Rwonda Licence Plate: xxx785
+Standard Rented by: Brenda Licence Plate: iii963
+Economy Rented by: Brenda Licence Plate: aaa965
+Mini Van Rented by: Brenda Licence Plate: uuu164
+Luxury Rented by: Colin Licence Plate: nnn369
+Economy Rented by: Cassie Licence Plate: ccc852
+Standard Rented by: Ben Licence Plate: kkk963
+SUV Rented by: Ben Licence Plate: sss796
+SUV Rented by: Ben Licence Plate: ttt796
+Standard Rented by: Custard Licence Plate: lll963
+SUV Rented by: Fondlebirts Licence Plate: qqq796
+
+Avalaible Car Count: 9
+List of Cars:
+Luxury, Licence Plates: ooo58
+Economy, Licence Plates: ggg852
+Standard, Licence Plates: hhh258
+Economy, Licence Plates: bbb852
+SUV, Licence Plates: ppp962
+Standard, Licence Plates: jjj258
+Economy, Licence Plates: eee852
+Mini Van, Licence Plates: www164
+SUV, Licence Plates: rrr962
+
+Revenue for today: 274.5
+
+Casuals in 35 days: 66
+Business in 35 days : 45
+Regulars in 35 days: 39
+Total customers in 35 days: 150
+Total revenue in 35 days: 49828

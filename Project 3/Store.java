@@ -3,17 +3,13 @@ import java.util.*;
 public class Store{
     AvailableCars Inventory;
     CustomerList Clientell;
-    History Hist;
     ArrayList<Rented> rentlist = new ArrayList<Rented>();
-    ArrayList<Rented> todaysrentals = new ArrayList<Rented>();
     Announcer announcer;
-    Double todaysrevenue = 0.00;
     int day = 1;
     public Store(AvailableCars inv, CustomerList ls){
         Inventory = inv;
         Clientell = ls;
-        Hist = new History(); 
-        announcer = new Announcer();
+        announcer = new Announcer(this);
     }
 
     public void addrenter(Car car, Customer client, int days){
@@ -30,11 +26,9 @@ public class Store{
         for (int j = 0; j < rd.nextInt(5);j++){
             tmp = new CarSeat(tmp);
         }
-        addtodaysrev(tmp.total(days));
-        Hist.addRent(client);
-        Hist.addRev(tmp.total(days));
-        todaysrentals.add(new Rented(car,client,tmp.total(days),tmp.getDescription(),days));
-        rentlist.add(new Rented(car,client,tmp.total(days),tmp.getDescription(),days));
+        Rented tmprent = new Rented(car,client,tmp.total(days),tmp.getDescription(),days);
+        announcer.update(client, tmp.total(days), tmprent);
+        rentlist.add(tmprent);
         Inventory.remove(car);
     }
 
@@ -52,7 +46,6 @@ public class Store{
 
     }
 
-    // THIS STILL NEED TO COMMUNICATE WITH ANNOUNCER TO PRINT COUNT OF ALL COMPLETED RENTALS WHICH CARS with options, customer, days rented, total fee
     public void returncar(Rented r){
         r.car.rented = false;
         r.client.carLimit++;
@@ -63,8 +56,8 @@ public class Store{
     public void newday(){
         int i = 0;
         day++;
-        cleartodaysrev();
-        todaysrentals.clear();
+        announcer.cleartodayrevenue();
+        announcer.todaysrentals.clear();
         Clientell.updateAllCustomers();
         while (tryRent(i) != null){
             rentlist.get(i).counter++;
@@ -76,12 +69,12 @@ public class Store{
         }
     }
 
-    public void updateAnnouncer(){   
-        System.out.println(announcer.display_newday(day));
-        System.out.println(announcer.display_Completerentals(todaysrentals)); 
-        System.out.println(announcer.display_activeRentals(rentlist));
-        System.out.println(announcer.display_AvailableCars(Inventory.Available));
-        System.out.println(announcer.display_todayrevenue(todaysrevenue));
+    public void announce(){   
+        announcer.display_newday();
+        announcer.display_Completerentals(); 
+        announcer.display_activeRentals();
+        announcer.display_AvailableCars();
+        announcer.display_todayrevenue();
     }
     public Rented tryRent(int i){
         try{
@@ -90,14 +83,7 @@ public class Store{
         catch(Exception e)
         {return null;}
     }
-
-    public void addtodaysrev(double x){
-        todaysrevenue += x;
-    }
-    public void cleartodaysrev(){
-        todaysrevenue = 0.00;
-    }
     public void printHist(){
-        System.out.println(announcer.display_History(Hist));
+        announcer.display_History();
     }
 }

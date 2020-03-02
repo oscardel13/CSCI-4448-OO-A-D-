@@ -1,40 +1,62 @@
 import java.util.*;
 public class Announcer{
+    OutFile out;
+    History Hist;
+    Store store;
+    ArrayList<Rented> todaysrentals = new ArrayList<Rented>();
+    Double todaysrevenue = 0.00;
 
-    public String display_Day(int x){
-        return "Day: " + x;
+     public Announcer(Store store){
+        out = new OutFile();
+        Hist = new History(); 
+        this.store = store;
+     }
+
+    public void display_Day(int x){
+        out.printOut("Day: " + x);
     }
-    //NEED A DAY TO GET ALL (MAYBE A LIST)
-    public String display_Completerentals(ArrayList<Rented> cur){
-        String lol = "Complete Rentals: " + cur.size() + "\r\nComplete Rentals List\r\n"; 
-        for(Rented rec:cur)
-            lol += "Car Type: " + rec.car.getClass().getName() + " Rented by: " + rec.client.name + " Licence Plate: " + rec.car.Licence + "\r\n"; 
-        return lol;
+    public void update(Customer client, double x, Rented rent){
+        Hist.addRent(client);
+        Hist.addRev(x);
+        todaysrevenue += x;
+        todaysrentals.add(rent);
     }
-    public String display_activeRentals(ArrayList<Rented> cur){
-        String lol = "Active Rentals Count: " + cur.size() + "\r\nActive Rentals List\r\n"; 
-        for(Rented rec:cur)
-            lol += "Car Type: " + rec.car.getClass().getName() + " Rented by: " + rec.client.name + " Licence Plate: " + rec.car.Licence + "\r\n"; 
-        return lol;
+
+    public void cleartodaysrental(){
+        todaysrentals.clear();
     }
-    public String display_AvailableCars(ArrayList<Car> Ava){ //Better to add Availiblelist class then call funtion to add lol
-        String lol = "Avalaible Car Count: " + Ava.size() + "\r\nList of Cars:\r\n";
-        for(Car car:Ava)
-            lol += car.Licence + "\r\n";
-        return lol;
+
+    public void display_Completerentals(){
+        out.printOut("\r\nComplete Rentals: " + todaysrentals.size() + "\r\nComplete Rentals List"); 
+        for(Rented rec:todaysrentals)
+            out.printOut("Car: " + rec.Description + " Rented by: " + rec.client.name + " For: " + rec.renttime + " days with Total price: " + rec.cost); 
+    }
+    public void display_activeRentals(){
+        out.printOut("\r\nActive Rentals Count: " + store.rentlist.size() + "\r\nActive Rentals List"); 
+        for(Rented rec:store.rentlist)
+        out.printOut(rec.car.description + " Rented by: " + rec.client.name + " Licence Plate: " + rec.car.Licence); 
+    }
+    public void display_AvailableCars(){ //Better to add Availiblelist class then call funtion to add lol
+        out.printOut("\r\nAvalaible Car Count: " + store.Inventory.Available.size() + "\r\nList of Cars:");
+        for(Car car:store.Inventory.Available)
+            out.printOut(car.description + ", Licence Plates: " + car.Licence);
     }
     //DONE, THIS PRINTS THE CUSTOMERS THAT CAME IN AND THE REVENUE MADE
-    public String display_History(History hist){
+    public void display_History(){
 
-        return "Casuals in 35 days: " + hist.cusrented + "\r\nBusiness in 35 days : " + hist.busrented + 
-        "\r\nRegulars in 35 days: " + hist.regrented + "\r\nTotal in 35 days: " + hist.rented + 
-        "\r\nTotal money made in 35 days: " + hist.revenue;
+        out.printOut("Casuals in 35 days: " + Hist.cusrented + "\r\nBusiness in 35 days : " + Hist.busrented + 
+        "\r\nRegulars in 35 days: " + Hist.regrented + "\r\nTotal customers in 35 days: " + Hist.rented + 
+        "\r\nTotal revenue in 35 days: " + Hist.revenue);
+        out.stopWriting();
     }
-    public String display_todayrevenue(Double i){
-        return "Revenue for today: " + i + "\r\n \r\n";
+    public void display_todayrevenue(){
+        out.printOut("\r\nRevenue for today: " + todaysrevenue + "\r\n");
     }
-    public String display_newday(int i){
-        return "Day: " + i + "\r\n";
+    public void display_newday(){
+        out.printOut("Day: " + store.day);
+    }
+    public void cleartodayrevenue(){
+        todaysrevenue = 0.00;
     }
 
 }
