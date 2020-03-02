@@ -12,7 +12,7 @@ public class RentReg extends RentBehavior {
         //Filling return array
         rentB[0] = carsRented;
         rentB[1] = nightsRented;
-        System.out.println("Regular: Renting "+ carsRented + " cars for " + nightsRented + " days");
+        //System.out.println("Regular: Renting "+ carsRented + " cars for " + nightsRented + " days");
         return rentB;
     }
 }

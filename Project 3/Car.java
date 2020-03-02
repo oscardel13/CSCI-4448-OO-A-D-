@@ -7,8 +7,8 @@ public abstract class Car{
     }
     public abstract double cost();
     public abstract double price();
-    public double total(){
-        return this.price() + this.cost();
+    public double total(int i){
+        return this.price() + this.cost()*i;
     }
 
 }

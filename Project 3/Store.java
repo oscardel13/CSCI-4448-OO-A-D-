@@ -6,14 +6,17 @@ public class Store{
     History Hist;
     ArrayList<Rented> rentlist = new ArrayList<Rented>();
     ArrayList<Rented> todaysrentals = new ArrayList<Rented>();
-    int todaysrevenue = 0;
+    Announcer announcer;
+    Double todaysrevenue = 0.00;
+    int day = 0;
     public Store(AvailableCars inv, CustomerList ls){
         Inventory = inv;
         Clientell = ls;
+        Hist = new History(); 
+        announcer = new Announcer();
     }
 
-    public void addrenter(Car car, Customer client, int i){
-        //Rented newR = new Rented(car,client,i);
+    public void addrenter(Car car, Customer client, int days){
         Random rd = new Random();
         car.rented = true;
         Car tmp = car;
@@ -27,11 +30,11 @@ public class Store{
         for (int j = 0; j < rd.nextInt(5);j++){
             tmp = new CarSeat(tmp);
         }
-        addtodaysrev(tmp.total());
+        addtodaysrev(tmp.total(days));
         Hist.addRent(client);
-        Hist.addRev(tmp.total());
-        todaysrentals.add(new Rented(car,client,tmp.total(),tmp.getDescription(),i));
-        rentlist.add(new Rented(car,client,tmp.total(),tmp.getDescription(),i));
+        Hist.addRev(tmp.total(days));
+        todaysrentals.add(new Rented(car,client,tmp.total(days),tmp.getDescription(),days));
+        rentlist.add(new Rented(car,client,tmp.total(days),tmp.getDescription(),days));
         Inventory.remove(car);
     }
 
@@ -59,6 +62,7 @@ public class Store{
     }
     public void newday(){
         int i = 0;
+        day++;
         cleartodaysrev();
         todaysrentals.clear();
         Clientell.updateAllCustomers();
@@ -70,7 +74,14 @@ public class Store{
             }
             i++;
         }
-        //Call announcer to 
+    }
+
+    public void updateAnnouncer(){   
+        System.out.println(announcer.display_newday(day));
+        System.out.println(announcer.display_Completerentals(todaysrentals)); 
+        System.out.println(announcer.display_activeRentals(rentlist));
+        System.out.println(announcer.display_AvailableCars(Inventory.Available));
+        System.out.println(announcer.display_todayrevenue(todaysrevenue));
     }
     public Rented tryRent(int i){
         try{
@@ -84,6 +95,9 @@ public class Store{
         todaysrevenue += x;
     }
     public void cleartodaysrev(){
-        todaysrevenue = 0;
+        todaysrevenue = 0.00;
+    }
+    public void printHist(){
+        System.out.println(announcer.display_History(Hist));
     }
 }

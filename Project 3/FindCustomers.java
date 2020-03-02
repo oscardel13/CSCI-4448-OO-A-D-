@@ -9,7 +9,7 @@ public class FindCustomers extends CustomerList{
         System.out.println(cL);
         //Randomize order
         Collections.shuffle(cL);
-        System.out.println("Shuffled bitch" + cL);
+        //System.out.println("Shuffled bitch" + cL);
 
         //Look at 5 random customers, if they can rent then add them to currentCustomers, these will be customers trying to enter store today
         for(int i = 0; i<5; i++){

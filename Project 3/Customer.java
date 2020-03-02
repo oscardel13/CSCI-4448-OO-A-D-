@@ -30,7 +30,7 @@ abstract public class Customer {
         //System.out.println(rentBehavior.rent());
         carsWanted = grabNums[0];
         nightsWanted = grabNums[1];
-        System.out.println("Cars wanted now " + carsWanted + " Nights wanted now " + nightsWanted);
+        //System.out.println("Cars wanted now " + carsWanted + " Nights wanted now " + nightsWanted);
     }
 
     //See if they can rent
