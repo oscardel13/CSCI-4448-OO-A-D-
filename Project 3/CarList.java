@@ -1,11 +1,11 @@
 import java.util.*;
 public class CarList{
-    ArrayList<Car> Inventory = new ArrayList<Car>();
+    ArrayList<Car> Inventory = new ArrayList<Car>(); // THis is the list of all the cars the store offers
+    // Adds car to the list.
     public void addCar(Car car){
         Inventory.add(car);
-        System.out.println("Added " + car.Licence + " to list!");
     }
-
+    //This creates the list of cars for the simulation
     public void createDefault(){
         Inventory.add(new Economy("aaa965"));
         Inventory.add(new Economy("bbb852"));
@@ -32,14 +32,14 @@ public class CarList{
         Inventory.add(new Minivan("www164"));
         Inventory.add(new Minivan("xxx785"));
     }
-
+    
     public void printList(){
         //iterating ArrayList
         for(Car car:Inventory)
             System.out.println(car.Licence);
     }
 
-    public ArrayList<Car> getList(){
+    public ArrayList<Car> getList(){ 
         return(Inventory);
     }
 }

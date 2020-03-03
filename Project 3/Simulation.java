@@ -1,3 +1,4 @@
+//This class is so the main can look cleaner. This could be edited in future to run different simulations of different customer lists and car lists
 public class Simulation{
     Store boulderRental;
     FindCustomers fC; 
@@ -13,9 +14,9 @@ public class Simulation{
 
     void Run(){
         while(boulderRental.day <= 35){
+            boulderRental.newday();
             fC.sendInCustomers();
             boulderRental.announce();
-            boulderRental.newday();
         }
         boulderRental.printHist();
     }

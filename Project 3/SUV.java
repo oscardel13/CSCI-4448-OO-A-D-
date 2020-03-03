@@ -3,10 +3,10 @@ public class SUV extends Car{
         description =  "SUV";
         this.Licence = L;
     }
-    public double cost(){
+    public double cost(){ //cost per day
         return 80.00;
     }
-    public double price(){
+    public double price(){ //tax for the add ons
         return 7.50;
     }
 }

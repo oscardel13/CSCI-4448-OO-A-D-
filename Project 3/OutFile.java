@@ -4,14 +4,16 @@ import java.io.PrintWriter;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
+//This class is just to print to an out file
 public class OutFile {
     File file;
     PrintWriter pw;
     public OutFile(){
         try{
-            //file = new File("Project 3/P3Out");
+            //We have this commented as the way ours directory works is different for some unknown reason
+            file = new File("Project 3/P3Out");
             //^^^ for Oscars end, vvv for Colins end
-            file = new File("P3Out");
+            //file = new File("P3Out");
             pw = new PrintWriter(file);
             LocalDateTime datet = LocalDateTime.now();
             DateTimeFormatter datef = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");

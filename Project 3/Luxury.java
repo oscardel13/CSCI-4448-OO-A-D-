@@ -3,10 +3,10 @@ public class Luxury extends Car{
         description =  "Luxury";
         this.Licence = L;
     }
-    public double cost(){
+    public double cost(){ //cost per day
         return 150.00;
     }
-    public double price(){
+    public double price(){ //tax for the add ons
         return 10.00;
     }
 }
